@@ -60,7 +60,7 @@
 .pos_7 {
   position: absolute;
   left: 2.21rem;
-  top: 20.86rem;
+  top: 21.86rem;
 }
 .text-wrapper {
   padding: 0.88rem 0;
@@ -188,7 +188,7 @@
 .pos_42 {
   position: absolute;
   left: 2.23rem;
-  top: 214.54rem;
+  top: 215rem;
 }
 .pos_43 {
   position: absolute;
@@ -476,7 +476,7 @@
 .pos_22 {
   position: absolute;
   left: 2.19rem;
-  top: 74rem;
+  top: 75rem;
 }
 .section_7 {
   background-color: #f7f7f71f;
@@ -604,7 +604,7 @@
 .pos_28 {
   position: absolute;
   left: 2.2rem;
-  top: 122.23rem;
+  top: 123.23rem;
 }
 .pos_29 {
   position: absolute;
@@ -908,7 +908,7 @@
 .pos_60 {
   position: absolute;
   left: 2.19rem;
-  bottom: 52.19rem;
+  bottom: 54.19rem;
 }
 .horiz-list {
   position: absolute;
@@ -1187,6 +1187,7 @@
 }
 .pos_76 {
   position: absolute;
-  left: 0.33rem;
+  left: 50%;
   bottom: 0;
+  transform: translateX(-50%);
 }
