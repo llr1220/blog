@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9969101e-1345-41a8-82a7-f6f4ffd8cac0" name="更改" comment="pc首页" />
+    <list default="true" id="9969101e-1345-41a8-82a7-f6f4ffd8cac0" name="更改" comment="pc首页">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mb_dashboard/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mb_dashboard/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mb_home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mb_home/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,9 +51,15 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,6 +78,7 @@
       <workItem from="1753188409001" duration="103000" />
       <workItem from="1753188519422" duration="519000" />
       <workItem from="1753189056401" duration="5875000" />
+      <workItem from="1759157243873" duration="1452000" />
     </task>
     <task id="LOCAL-00001" summary="pc首页">
       <option name="closed" value="true" />
