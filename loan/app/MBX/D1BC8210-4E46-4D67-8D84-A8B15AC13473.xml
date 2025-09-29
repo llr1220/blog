@@ -1,0 +1,30 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="CD432147-442C-438E-8D9A-FC7C9B2BCAD0" platform="MtMobile" defaultW="414" defaultH="736" measureW="414" measureH="736" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="2">
+    <control controlID="CD54628F-EB32-4E3C-9DD4-DBCED5386C99" controlTypeID="Shape" x="13" y="10" w="364" h="200" zOrder="0">
+      <color>4294441467</color>
+      <borderColor>4292335575</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E5%8F%82%E7%85%A7PC%E7%AB%AF%E6%9C%AA%E7%BB%93%E6%B8%85%E4%B8%9A%E5%8A%A1%E4%BD%99%E9%A2%9D%E5%88%86%E5%B8%83%E5%9B%BE</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="65920641-8AC0-46EA-8547-E7350EAD3054" controlTypeID="Shape" x="13" y="220" w="364" h="200" zOrder="1">
+      <color>4294441467</color>
+      <borderColor>4292335575</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E5%8F%82%E7%85%A7PC%E7%AB%AF%E6%AF%8F%E5%B9%B4%E6%96%B0%E5%A2%9E%E5%80%9F%E6%AC%BE</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294046454</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

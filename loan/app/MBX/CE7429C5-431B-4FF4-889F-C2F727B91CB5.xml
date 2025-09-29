@@ -1,0 +1,1374 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="CE7429C5-431B-4FF4-889F-C2F727B91CB5" platform="MtMobile" defaultW="414" defaultH="736" measureW="414" measureH="753" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,414,753)">
+  <controls controlCount="42">
+    <control controlID="184629E7-FFEE-4816-A673-0A6A54A46FD6" controlTypeID="StatusBar(IOS)" x="0" y="0" w="414" h="20" zOrder="0">
+      <color>4294046454</color>
+    </control>
+    <control controlID="63FEE1C5-7156-43A7-B32F-C2018880FC59" controlTypeID="Shape" x="0" y="20" w="414" h="40" zOrder="1">
+      <color>4294046454</color>
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E5%AE%A2%E6%88%B7%E8%A7%86%E5%9B%BE</text>
+      <textColor>4281545523</textColor>
+      <textSize>16</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F2B48A0C-7126-4BA4-9740-3F2C2896A50A" controlTypeID="Icon" x="20" y="32" w="16" h="16" zOrder="2">
+      <color>4278190080</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="29DA9BC2-EEA1-4021-AB53-89C6AD2AE00C" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%AE%A2%E6%88%B7%E6%9F%A5%E8%AF%A2-%E5%85%AC%E5%8F%B8%E5%AE%A2%E6%88%B7">
+          <area shape="0" alt="" ID="{9EBF4DFA-394C-4BA5-9814-8D7E3A289462}" coords="(0,0,16,16)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62418</iconCode>
+      </icon>
+      <URL>91852B86E51F760894554368302F9800.svg</URL>
+    </control>
+    <control controlID="FED3FDF1-60F9-463C-A8B6-64C90F52684F" controlTypeID="Shape" x="10" y="60" w="394" h="149" zOrder="3">
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="FBA8C4A2-B0FD-4BDE-BF0A-6A01C4676941" controlTypeID="Label" x="97" y="78" w="160" h="22" zOrder="4">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>%E5%9B%BD%E8%BD%A9%E9%AB%98%E7%A7%91%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="EF309013-849D-4B1E-9C17-12A2257668B0" controlTypeID="Circle" x="37" y="78" w="50" h="50" zOrder="5">
+      <color>4280908779</color>
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E5%9B%BD</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+      <thickness>4</thickness>
+    </control>
+    <control controlID="3BC6464F-44AC-4846-8AA1-E612E562593F" controlTypeID="Label" x="97" y="107" w="60" h="16" zOrder="6">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E5%AE%A2%E6%88%B7%E7%BC%96%E5%8F%B7%EF%BC%9A</text>
+      <textColor>4287006342</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="64C870D6-3B5E-4748-87F2-7F9A6BD54288" controlTypeID="Label" x="157" y="107" w="149" h="16" zOrder="7">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>CMSCUS20250612000001</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5851A329-A961-4F81-8B4B-63897127D3A7" controlTypeID="Label" x="212" y="152" w="60" h="16" zOrder="8">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%AE%A1%E6%88%B7%E6%9C%BA%E6%9E%84%EF%BC%9A</text>
+      <textColor>4287006342</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="90D2885A-55D6-45E9-8FFA-AB773BB098E1" controlTypeID="Label" x="272" y="152" w="55" h="16" zOrder="9">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>**********</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="BB645835-3FC6-4F83-AC2D-C7B00676DF78" controlTypeID="Label" x="37" y="152" w="48" h="16" zOrder="10">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%AE%A1%E6%88%B7%E4%BA%BA%EF%BC%9A</text>
+      <textColor>4287006342</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6194ED03-85A5-4126-9538-97A5201E67C1" controlTypeID="Label" x="85" y="152" w="68" h="16" zOrder="11">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>xxx(119020)</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="670AFFF3-5673-4CFC-89CF-0518F2DD6FD2" controlTypeID="Button" x="34" y="178" w="55" h="20" zOrder="12">
+      <color>4290303741</color>
+      <borderColor>4280908779</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E5%88%A9%E7%8E%87%E7%BD%AE%E6%8D%A2</text>
+      <textColor>4280908779</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="A7F78E4F-D722-423D-8E21-145D07A11463" controlTypeID="Button" x="94" y="178" w="55" h="20" zOrder="13">
+      <color>4290303741</color>
+      <borderColor>4280908779</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E8%B5%84%E9%87%91%E6%B8%B4%E6%B1%82</text>
+      <textColor>4280908779</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="85D89E35-8AFC-4564-A6CF-39D7410A580C" controlTypeID="Button" x="154" y="178" w="66" h="20" zOrder="14">
+      <color>4290303741</color>
+      <borderColor>4280908779</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%9C%AA%E8%B6%B3%E9%A2%9D%E6%8E%88%E4%BF%A1</text>
+      <textColor>4280908779</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="196BDEFC-F396-4B42-AB74-DDD801830E57" controlTypeID="Button" x="225" y="178" w="66" h="20" zOrder="15">
+      <color>4290303741</color>
+      <borderColor>4280908779</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E4%B8%AA%E4%BD%93%E5%B7%A5%E5%95%86%E6%88%B7</text>
+      <textColor>4280908779</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="3BC86096-26B8-41F8-AC75-D7B040EFC459" controlTypeID="Button" x="301" y="178" w="66" h="20" zOrder="16">
+      <color>4290303741</color>
+      <borderColor>4280908779</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%9F%A5%E7%9C%8B%E6%9B%B4%E5%A4%9A</text>
+      <textColor>4280908779</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="0A20F7AE-BDFB-42B5-9AA2-FD857D39883A" controlTypeID="Label" x="97" y="126" w="108" h="16" zOrder="17">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%BB%9F%E4%B8%80%E7%A4%BE%E4%BC%9A%E4%BF%A1%E7%94%A8%E4%BB%A3%E7%A0%81%EF%BC%9A</text>
+      <textColor>4287006342</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="101BAD86-E8B0-4C25-95F2-F00BBC0D39EE" controlTypeID="Label" x="207" y="126" w="127" h="16" zOrder="18">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>91320600138346792B</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E0EAAF8C-256D-4083-9CF5-04A66A11BA03" controlTypeID="Button" x="10" y="276" w="90" h="30" zOrder="19">
+      <caption>%E5%AE%A2%E6%88%B7%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF</caption>
+      <color>4293976550</color>
+      <borderVisible>False</borderVisible>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{3C8AC7A0-B0AD-4B50-9823-E05CEE7BD022}" coords="(0,0,90,30)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="E0EAAF8C-256D-4083-9CF5-04A66A11BA03" IsNeedReplaceAsSelfID="True" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="4293399621" varType="20" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4293976550" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="A4246A70-6C2A-47BE-91E8-C746408BD7EA" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="55BA931A-36C8-4DE1-AF13-06CA85C8D065" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="281C27F5-882C-41A3-B61C-BED6ED89243D" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="9F55D248-6ADF-4F98-8E6E-C480A2941FC9" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="4278190080" varType="20" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="1EDC7759-E7F5-4256-A910-488664DC586E" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Switch Stack Panel" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="SelecedIndex" value="0" varType="3" description=""/>
+                  </command>
+                </target>
+                <target targetID="FE448453-7A9F-4C74-9294-3B308B84BF53" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E5%AE%A2%E6%88%B7%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF</text>
+      <textColor>4293399621</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="A4246A70-6C2A-47BE-91E8-C746408BD7EA" controlTypeID="Button" x="106" y="276" w="90" h="30" zOrder="20">
+      <caption>%E5%8F%B8%E6%B3%95%E8%AF%89%E8%AE%BC%E6%A1%88%E4%BB%B6</caption>
+      <borderVisible>False</borderVisible>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{88F1353F-2D66-418C-96C5-52163834DBE6}" coords="(0,0,90,30)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="A4246A70-6C2A-47BE-91E8-C746408BD7EA" IsNeedReplaceAsSelfID="True" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="4293399621" varType="20" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4293976550" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="E0EAAF8C-256D-4083-9CF5-04A66A11BA03" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="4278190080" varType="20" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="55BA931A-36C8-4DE1-AF13-06CA85C8D065" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="281C27F5-882C-41A3-B61C-BED6ED89243D" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="9F55D248-6ADF-4F98-8E6E-C480A2941FC9" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="1EDC7759-E7F5-4256-A910-488664DC586E" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Switch Stack Panel" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="SelecedIndex" value="1" varType="3" description=""/>
+                  </command>
+                </target>
+                <target targetID="FE448453-7A9F-4C74-9294-3B308B84BF53" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E5%8F%B8%E6%B3%95%E8%AF%89%E8%AE%BC%E6%A1%88%E4%BB%B6</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="55BA931A-36C8-4DE1-AF13-06CA85C8D065" controlTypeID="Button" x="203" y="276" w="75" h="30" zOrder="21">
+      <caption>%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A</caption>
+      <borderVisible>False</borderVisible>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{74942451-5684-4BBC-95FF-3B64F9034352}" coords="(0,0,75,30)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="55BA931A-36C8-4DE1-AF13-06CA85C8D065" IsNeedReplaceAsSelfID="True" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="4293399621" varType="20" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4293976550" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="E0EAAF8C-256D-4083-9CF5-04A66A11BA03" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="4278190080" varType="20" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="A4246A70-6C2A-47BE-91E8-C746408BD7EA" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="281C27F5-882C-41A3-B61C-BED6ED89243D" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="9F55D248-6ADF-4F98-8E6E-C480A2941FC9" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="1EDC7759-E7F5-4256-A910-488664DC586E" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Switch Stack Panel" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="SelecedIndex" value="2" varType="3" description=""/>
+                  </command>
+                </target>
+                <target targetID="FE448453-7A9F-4C74-9294-3B308B84BF53" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="281C27F5-882C-41A3-B61C-BED6ED89243D" controlTypeID="Button" x="288" y="276" w="90" h="30" zOrder="22">
+      <caption>%E7%BA%B3%E7%A8%8E%E4%BF%A1%E7%94%A8%E4%BF%A1%E6%81%AF</caption>
+      <borderVisible>False</borderVisible>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{AE89E194-73A2-42D2-9CD2-C257D6AA165F}" coords="(0,0,90,30)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="281C27F5-882C-41A3-B61C-BED6ED89243D" IsNeedReplaceAsSelfID="True" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="4293399621" varType="20" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4293976550" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="E0EAAF8C-256D-4083-9CF5-04A66A11BA03" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="4278190080" varType="20" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="A4246A70-6C2A-47BE-91E8-C746408BD7EA" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="55BA931A-36C8-4DE1-AF13-06CA85C8D065" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="9F55D248-6ADF-4F98-8E6E-C480A2941FC9" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Text" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="" varType="256" description=""/>
+                    <param name="ToValue" value="风险名单信息" varType="256" description=""/>
+                  </command>
+                </target>
+                <target targetID="1EDC7759-E7F5-4256-A910-488664DC586E" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Switch Stack Panel" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="SelecedIndex" value="3" varType="3" description=""/>
+                  </command>
+                </target>
+                <target targetID="FE448453-7A9F-4C74-9294-3B308B84BF53" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%BA%B3%E7%A8%8E%E4%BF%A1%E7%94%A8%E4%BF%A1%E6%81%AF</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="9F55D248-6ADF-4F98-8E6E-C480A2941FC9" controlTypeID="Button" x="10" y="316" w="90" h="30" zOrder="23">
+      <caption>%E9%A3%8E%E9%99%A9%E5%90%8D%E5%8D%95%E4%BF%A1%E6%81%AF</caption>
+      <borderVisible>False</borderVisible>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{6A3F21C8-A243-48C9-AEFE-15B79FFCA44F}" coords="(0,0,90,30)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="9F55D248-6ADF-4F98-8E6E-C480A2941FC9" IsNeedReplaceAsSelfID="True" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="4293399621" varType="20" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4293976550" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="E0EAAF8C-256D-4083-9CF5-04A66A11BA03" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="4278190080" varType="20" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="A4246A70-6C2A-47BE-91E8-C746408BD7EA" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="55BA931A-36C8-4DE1-AF13-06CA85C8D065" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="281C27F5-882C-41A3-B61C-BED6ED89243D" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="1EDC7759-E7F5-4256-A910-488664DC586E" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Switch Stack Panel" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="SelecedIndex" value="4" varType="3" description=""/>
+                  </command>
+                </target>
+                <target targetID="FE448453-7A9F-4C74-9294-3B308B84BF53" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E9%A3%8E%E9%99%A9%E5%90%8D%E5%8D%95%E4%BF%A1%E6%81%AF</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="1EDC7759-E7F5-4256-A910-488664DC586E" controlTypeID="ContentPanel" x="1" y="356" w="413" h="384" zOrder="24">
+      <color>4294046454</color>
+      <groupChildrenDescriptors>
+        <control controlID="1C086010-EF4C-4F88-B836-F184024F6AAB" controlTypeID="ScrollArea" x="0" y="0" w="413" h="384" zOrder="0">
+          <caption>%E5%AE%A2%E6%88%B7%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF</caption>
+          <color>4294046454</color>
+          <canMove>False</canMove>
+          <alias>%E5%AE%A2%E6%88%B7%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF</alias>
+          <groupChildrenDescriptors>
+            <control controlID="864DD47B-6031-425A-A28E-7F9A1C0CBBCA" controlTypeID="ScrollViewPort" x="0" y="0" w="300" h="300" zOrder="0">
+              <caption>ScrollViewPort</caption>
+              <alias>viewPort</alias>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="8AB264D9-5F51-468E-8E36-B4C2B68E01A2" linkType="ltIncludePage" isApplyIncludePage="True" title="%E9%93%BE%E6%8E%A5">
+                  <area shape="0" alt="" ID="{83367644-E372-4889-BCB9-21606B220B96}" coords="(0,0,300,300)"/>
+                </link>
+              </links>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="AEEF52A1-DF46-4321-958A-AED50652A076" controlTypeID="ScrollArea" x="0" y="0" w="413" h="384" zOrder="1">
+          <caption>%E5%8F%B8%E6%B3%95%E8%AF%89%E8%AE%BC%E6%A1%88%E4%BB%B6</caption>
+          <color>4294046454</color>
+          <canMove>False</canMove>
+          <alias>%E5%8F%B8%E6%B3%95%E8%AF%89%E8%AE%BC%E6%A1%88%E4%BB%B6</alias>
+          <groupChildrenDescriptors>
+            <control controlID="EC83B245-A95F-4592-8946-B42676DE3756" controlTypeID="ScrollViewPort" x="0" y="0" w="300" h="300" zOrder="0">
+              <caption>ScrollViewPort</caption>
+              <alias>viewPort</alias>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="73244A03-CBC0-4A87-B798-51E7CE6A3947" linkType="ltIncludePage" isApplyIncludePage="True" title="%E9%93%BE%E6%8E%A5">
+                  <area shape="0" alt="" ID="{E35F5F13-C396-451E-9451-B326A8D89924}" coords="(0,0,300,300)"/>
+                </link>
+              </links>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2963A33B-6F77-4BBB-9B81-232F2467B0A7" controlTypeID="ScrollArea" x="0" y="0" w="413" h="384" zOrder="2">
+          <caption>%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E4%BA%8B%E4%BB%B6</caption>
+          <color>4294046454</color>
+          <canMove>False</canMove>
+          <alias>%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E4%BA%8B%E4%BB%B6</alias>
+          <groupChildrenDescriptors>
+            <control controlID="3C408B0E-7C38-4BAB-A205-D05CC3A58447" controlTypeID="ScrollViewPort" x="0" y="0" w="300" h="300" zOrder="0">
+              <caption>ScrollViewPort</caption>
+              <alias>viewPort</alias>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="0C8D4C7F-1677-48A1-9932-CB98F07FBB1F" linkType="ltIncludePage" isApplyIncludePage="True" title="%E9%93%BE%E6%8E%A5">
+                  <area shape="0" alt="" ID="{C1F280A4-AD0F-453B-B7BC-9751FA4BE410}" coords="(0,0,300,300)"/>
+                </link>
+              </links>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="7E3DE61C-23F8-4D56-8E07-8248CD520EFD" controlTypeID="ScrollArea" x="0" y="0" w="413" h="384" zOrder="3">
+          <caption>%E7%BA%B3%E7%A8%8E%E4%BF%A1%E7%94%A8%E4%BF%A1%E6%81%AF</caption>
+          <color>4294046454</color>
+          <canMove>False</canMove>
+          <alias>%E7%BA%B3%E7%A8%8E%E4%BF%A1%E7%94%A8%E4%BF%A1%E6%81%AF</alias>
+          <groupChildrenDescriptors>
+            <control controlID="CA785D6D-A142-4DC2-85B5-EFCDDD9D91FD" controlTypeID="ScrollViewPort" x="0" y="0" w="300" h="300" zOrder="0">
+              <caption>ScrollViewPort</caption>
+              <alias>viewPort</alias>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="25A827D6-4F6C-4CCA-97EE-B114833F70EA" linkType="ltIncludePage" isApplyIncludePage="True" title="%E9%93%BE%E6%8E%A5">
+                  <area shape="0" alt="" ID="{8EE29062-6F2A-4E31-A37F-E267EBBBA25D}" coords="(0,0,300,300)"/>
+                </link>
+              </links>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="52B30B6F-37F9-4667-B3DC-86571B7E9EC8" controlTypeID="ScrollArea" x="0" y="0" w="413" h="384" zOrder="4">
+          <caption>%E9%A3%8E%E9%99%A9%E5%90%8D%E5%8D%95%E4%BF%A1%E6%81%AF</caption>
+          <color>4294046454</color>
+          <canMove>False</canMove>
+          <alias>%E9%A3%8E%E9%99%A9%E5%90%8D%E5%8D%95%E4%BF%A1%E6%81%AF</alias>
+          <groupChildrenDescriptors>
+            <control controlID="FD4A84A7-9740-4BEC-8F94-330BEB077B4A" controlTypeID="ScrollViewPort" x="0" y="0" w="300" h="300" zOrder="0">
+              <caption>ScrollViewPort</caption>
+              <alias>viewPort</alias>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="79F95123-C9EF-4745-8B3E-63E896F711AB" linkType="ltIncludePage" isApplyIncludePage="True" title="%E9%93%BE%E6%8E%A5">
+                  <area shape="0" alt="" ID="{E5C7EB73-A812-4FBA-8557-2734B9E89CF6}" coords="(0,0,300,300)"/>
+                </link>
+              </links>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="70C839E0-F976-4D27-B8C8-EE690DFEBA28" controlTypeID="ScrollArea" x="0" y="0" w="413" h="384" zOrder="5">
+          <caption>%E6%96%B0%E9%97%BB%E8%88%86%E6%83%85</caption>
+          <color>4294046454</color>
+          <canMove>False</canMove>
+          <alias>%E6%96%B0%E9%97%BB%E8%88%86%E6%83%85</alias>
+          <groupChildrenDescriptors>
+            <control controlID="5FC90588-C27E-4F09-A151-F6B2AB3642D0" controlTypeID="ScrollViewPort" x="0" y="0" w="300" h="300" zOrder="0">
+              <caption>ScrollViewPort</caption>
+              <alias>viewPort</alias>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="3F4B27DA-1086-4D62-ABA9-DA4AAB679A2E" linkType="ltIncludePage" isApplyIncludePage="True" title="%E9%93%BE%E6%8E%A5">
+                  <area shape="0" alt="" ID="{BD9324B8-598E-4D05-A693-27952BE48A88}" coords="(0,0,300,300)"/>
+                </link>
+              </links>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+      <showScrollBars>False</showScrollBars>
+    </control>
+    <control controlID="FE448453-7A9F-4C74-9294-3B308B84BF53" controlTypeID="Button" x="108" y="316" w="90" h="30" zOrder="25">
+      <caption>%E6%96%B0%E9%97%BB%E8%88%86%E6%83%85%E4%BF%A1%E6%81%AF</caption>
+      <borderVisible>False</borderVisible>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{6A3F21C8-A243-48C9-AEFE-15B79FFCA44F}" coords="(0,0,90,30)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="FE448453-7A9F-4C74-9294-3B308B84BF53" IsNeedReplaceAsSelfID="True" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="4293399621" varType="20" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4293976550" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="E0EAAF8C-256D-4083-9CF5-04A66A11BA03" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="4278190080" varType="20" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="A4246A70-6C2A-47BE-91E8-C746408BD7EA" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="55BA931A-36C8-4DE1-AF13-06CA85C8D065" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="281C27F5-882C-41A3-B61C-BED6ED89243D" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+                <target targetID="1EDC7759-E7F5-4256-A910-488664DC586E" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Switch Stack Panel" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="SelecedIndex" value="5" varType="3" description=""/>
+                  </command>
+                </target>
+                <target targetID="9F55D248-6ADF-4F98-8E6E-C480A2941FC9" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Text Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="0" varType="20" description=""/>
+                    <param name="ToValue" value="-16777216" varType="3" description=""/>
+                  </command>
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4294967295" varType="20" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%96%B0%E9%97%BB%E8%88%86%E6%83%85%E4%BF%A1%E6%81%AF</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="307E0410-AD24-4B5D-A7C4-B258329AAAD3" controlTypeID="ScrollView" x="0" y="219" w="414" h="40" zOrder="26">
+      <color>16777215</color>
+      <borderVisible>False</borderVisible>
+      <groupChildrenDescriptors>
+        <control controlID="2F20B741-079A-4F3C-A820-F6C8908D68B6" controlTypeID="ScrollViewContentPanel" x="0" y="0" w="701" h="40" zOrder="0">
+          <alias>contentPanel</alias>
+          <groupChildrenDescriptors>
+            <control controlID="004B1BE4-9B9E-4EEB-98AF-FC9C830951F8" controlTypeID="Tabs" x="0" y="0" w="701" h="40" zOrder="0">
+              <borderColor>4292335575</borderColor>
+              <borderVisible>False</borderVisible>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="6A15EB78-0935-453F-BDC4-8FC94BEDDDFD" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%AE%A2%E6%88%B7%E7%9C%8B%E6%9D%BF">
+                  <area shape="0" alt="" ID="{295FDA4D-949B-469B-94D5-C17EFFD2423E}" coords="(0,0,69.0999984741211,40)"/>
+                </link>
+                <link targetPageID="1F335C2B-F723-462A-B615-506E2311A1A4" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF">
+                  <area shape="0" alt="" ID="{D6B26009-56FB-4ACA-B737-0E59194EB5A4}" coords="(70.0999984741211,0,139.199996948242,40)"/>
+                </link>
+                <link targetPageID="D9A3DA3C-9AF8-463A-B654-7114403FD88A" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%B4%A2%E5%8A%A1%E4%BF%A1%E6%81%AF">
+                  <area shape="0" alt="" ID="{E5A5265D-45F7-4E97-A2C6-2825A0A6CF05}" coords="(140.199996948242,0,209.299987792969,40)"/>
+                </link>
+                <link targetPageID="622B5002-AF45-4588-92BB-9AF88E29E276" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%9E%8D%E8%B5%84%E4%BF%A1%E6%81%AF">
+                  <area shape="0" alt="" ID="{7E604A66-CE02-4E40-ADBD-C4BFDBC395AE}" coords="(210.299987792969,0,279.399993896484,40)"/>
+                </link>
+                <link targetPageID="6D1BBD50-6F8B-46A3-BB61-C39DDF12C50D" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%B5%84%E4%BA%A7%E4%BF%A1%E6%81%AF">
+                  <area shape="0" alt="" ID="{F341D7C2-34F4-4922-9D94-1E0CF17CCECF}" coords="(280.399993896484,0,349.5,40)"/>
+                </link>
+                <link targetPageID="7AAB6C92-9872-437C-8DB8-D77CF2B5E8F4" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%B4%A6%E6%88%B7%E4%BF%A1%E6%81%AF">
+                  <area shape="0" alt="" ID="{F25F6B33-7054-41F3-96A2-C8AEE488A7EB}" coords="(350.5,0,419.600006103516,40)"/>
+                </link>
+                <link targetPageID="CE7429C5-431B-4FF4-889F-C2F727B91CB5" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%B4%9F%E9%9D%A2%E4%BF%A1%E6%81%AF">
+                  <area shape="0" alt="" ID="{C2978A8D-FD0E-4315-B8D2-65D000955C35}" coords="(420.600006103516,0,489.700012207031,40)"/>
+                </link>
+                <link targetPageID="62B15ABF-B341-40EE-90E1-A347782444A0" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%85%B3%E8%81%94%E4%BF%A1%E6%81%AF">
+                  <area shape="0" alt="" ID="{D3EB05BA-1630-47C8-943F-6E0130C869D3}" coords="(490.700012207031,0,559.799987792969,40)"/>
+                </link>
+                <link targetPageID="67FEC9F4-6F15-43D6-96A1-7337C658D50B" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%B4%B7%E5%90%8E%E4%BF%A1%E6%81%AF">
+                  <area shape="0" alt="" ID="{B609090B-02B8-4B07-9151-8AACFED81114}" coords="(560.799987792969,0,629.899963378906,40)"/>
+                </link>
+                <link targetPageID="B98A3F90-45D5-4EFE-9CC9-3D7EB98D2BF5" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%AE%A2%E6%88%B7%E8%B4%A1%E7%8C%AE%E4%BF%A1%E6%81%AF">
+                  <area shape="0" alt="" ID="{AB35B24B-EDA4-42D3-A935-FCEB62146335}" coords="(630.899963378906,0,699.999938964844,40)"/>
+                </link>
+              </links>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>%E5%AE%A2%E6%88%B7%E7%9C%8B%E6%9D%BF%2C%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF%2C%E8%B4%A2%E5%8A%A1%E4%BF%A1%E6%81%AF%2C%E8%9E%8D%E8%B5%84%E4%BF%A1%E6%81%AF%2C%E8%B5%84%E4%BA%A7%E4%BF%A1%E6%81%AF%2C%E8%B4%A6%E6%88%B7%E4%BF%A1%E6%81%AF%2C%E8%B4%9F%E9%9D%A2%E4%BF%A1%E6%81%AF%2C%E5%85%B3%E8%81%94%E4%BF%A1%E6%81%AF%2C%E8%B4%B7%E5%90%8E%E4%BF%A1%E6%81%AF%2C%E5%AE%A2%E6%88%B7%E8%B4%A1%E7%8C%AE%E4%BF%A1%E6%81%AF</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>6</selectedIndex>
+              <selectedColor>4281890246</selectedColor>
+              <indicatorPercentWidth>20</indicatorPercentWidth>
+              <dividerPercentHeight>0</dividerPercentHeight>
+              <selectedTextColor>4281890246</selectedTextColor>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="C42FDB58-C5F9-432E-A3A9-5EDAB92FFC64" controlTypeID="Border" x="0" y="0" w="414" h="40" zOrder="1">
+          <color>4284900966</color>
+          <borderColor>4278190080</borderColor>
+          <borderVisible>False</borderVisible>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <canHoriScroll>True</canHoriScroll>
+      <canVertScroll>False</canVertScroll>
+      <showScrollBars>False</showScrollBars>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294046454</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

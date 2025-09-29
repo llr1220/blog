@@ -1,0 +1,1496 @@
+﻿<project version="2.9" name="移动信贷-手机版-0923" ID="369C64DB-3081-4ADC-B82E-3F369BF54BE7">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtIOS" pageSize="(414,736)" backgroundColor="4294046454" fontSize="0" fontFamily="微软雅黑" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="客户查询-集团客户" ID="E75DBE34-1325-461B-A426-760BB0624717" expanded="True" code="9nE9kkz74L" thumbCode="9nE9kkz74L" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="91852B86E51F760894554368302F9800.svg"/>
+        <image key="CD4D64F6504DFB85F957B55C4C7BEE35.png"/>
+      </images>
+    </page>
+    <page name="个人客户" ID="25984402-295B-4DDD-BBC9-ED955657E5C0" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+      <page name="客户查询-个人客户" ID="3045A5AB-231A-441B-B74F-5DDEB01D3FB4" expanded="False" code="Xe6bkRIqAY" thumbCode="Xe6bkRIqAY" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+          <image key="91852B86E51F760894554368302F9800.svg"/>
+          <image key="D08755C22A9B40B6BF65036DEC8B44B4.svg"/>
+          <image key="B2F239FE2A3DA410C001FE3297A11B24.svg"/>
+        </images>
+        <page name="新增-手工录入" ID="F6125444-4CD8-45C5-A48D-DC291D243B3B" expanded="True" code="BZnNboHQs5" thumbCode="BZnNboHQs5" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="ECIF疑似存量客户确认" ID="33D768D6-C965-4DCF-A61E-BFDDF6F01823" expanded="False" code="H2VYHgsDEU" thumbCode="H2VYHgsDEU" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="新增客户-证件回显" ID="5552C448-1BC1-4C4D-BC09-AEB0C0B4C4BD" expanded="False" code="QEoj8JsBDr" thumbCode="Tw4FC6h8Qk" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="1794BA84FDA001A986210728345F80A0.png"/>
+            <image key="7BBDCEE6806EF80D54B34090D1BD3485.png"/>
+          </images>
+        </page>
+        <page name="新增客户-ocr信息确认" ID="1C91A7DC-2865-41A7-BDF1-A7C23317DC9E" expanded="False" code="47loThHcu7" thumbCode="47loThHcu7" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="F514D130FDDA51F597280EAD8CD127E6.jpg"/>
+          </images>
+        </page>
+        <page name="新增客户-ocr已识别" ID="F05D6ADC-1F71-4FA9-914B-58B17E6B307E" expanded="False" code="NVtwWpwOnd" thumbCode="NVtwWpwOnd" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="131F35D5764586D469B983E5E2357A5E.png"/>
+            <image key="AB3C047676F2FB9845D5AA54D07A2AAB.png"/>
+          </images>
+        </page>
+        <page name="新增客户-ocr" ID="A7FA9A40-E0E5-402E-9440-01506D02F429" expanded="False" code="ZUj28crp76" thumbCode="ZUj28crp76" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="AB73E3FBADE87B861431D1394F9FF444.png"/>
+            <image key="0E908A7059D1AC7910AC431AB462B3DC.png"/>
+          </images>
+        </page>
+      </page>
+      <page name="编辑" ID="68BB881A-D68F-419C-A07B-EE15A6943FC6" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+        <page name="客户基本信息" ID="1D437D72-11C1-48D3-A080-290A7B82588B" expanded="False" code="4o43WlrQIf" thumbCode="4o43WlrQIf" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="0B95B2D2737404225AC448D22AE22D5E.svg"/>
+            <image key="51ED992D000055983D8B8802C65E2870.svg"/>
+            <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+            <image key="CA87E59D4C4E6C46C8A3B241A3C41AE1.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+            <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+            <image key="643399502F4A768B9C36424C2FD37F95.svg"/>
+          </images>
+          <page name="新增工作单位信息" ID="046DED04-AF9A-48D8-AF70-AAD349E0B40D" expanded="False" code="6z7yVoOnfo" thumbCode="6z7yVoOnfo" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+            </images>
+          </page>
+          <page name="新增学业履历信息" ID="AB268136-919A-4972-8BFD-8EF0C1F056E7" expanded="False" code="ThHqLHBUBs" thumbCode="ThHqLHBUBs" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+            </images>
+          </page>
+          <page name="新增成员信息" ID="6B4338D1-C058-4E57-89B0-0E707BDAC0CE" expanded="False" code="ITzdQuAgic" thumbCode="ITzdQuAgic" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="新增经营信息" ID="4D038160-B3DD-4BD0-A2EB-3C3E8C8C60A8" expanded="False" code="nmQfFSmTIy" thumbCode="nmQfFSmTIy" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="0B95B2D2737404225AC448D22AE22D5E.svg"/>
+              <image key="51ED992D000055983D8B8802C65E2870.svg"/>
+              <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+              <image key="CA87E59D4C4E6C46C8A3B241A3C41AE1.svg"/>
+              <image key="24AC6E9D0DB95CFF2CF4AFB878AB46D7.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="643399502F4A768B9C36424C2FD37F95.svg"/>
+            </images>
+          </page>
+          <page name="新增职业信息" ID="3D1B4907-129F-44C6-BD36-2B17262FAA08" expanded="True" code="keaxVKHZMZ" thumbCode="keaxVKHZMZ" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+            </images>
+          </page>
+          <page name="新增联系信息" ID="8A08A61C-6801-4650-A7B7-6039FD34E7BD" expanded="False" code="gpBWiDmIx7" thumbCode="gpBWiDmIx7" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="新增地址" ID="C0AC5E77-A635-4165-85A8-34B0E3C69DA7" expanded="True" code="IgvxOonzEX" thumbCode="IgvxOonzEX" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="资产信息" ID="F7453C8F-99C1-4791-A85F-5027E79F29FE" expanded="True" code="JqMir4ERBe" thumbCode="JqMir4ERBe" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="CA87E59D4C4E6C46C8A3B241A3C41AE1.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+            <image key="51ED992D000055983D8B8802C65E2870.svg"/>
+            <image key="643399502F4A768B9C36424C2FD37F95.svg"/>
+          </images>
+        </page>
+        <page name="行内例外事项" ID="73224F5F-B3E4-4AC7-B963-FBCC3E0C7F44" expanded="True" code="orjsAwDOuq" thumbCode="orjsAwDOuq" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+          </images>
+        </page>
+        <page name="历史征信查看" ID="EBE4D5A5-0A5F-422F-A376-37C3CC93831E" expanded="False" code="JUTqDsJ9SC" thumbCode="JUTqDsJ9SC" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="义乌商场征信查看" ID="BA3F2736-F902-4841-95F8-B4AD4A9EA651" expanded="False" code="hTdSNAuhXV" thumbCode="hTdSNAuhXV" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="影像资料" ID="0B3101D3-6FF4-4BE9-A839-BBBE619F661D" expanded="True" code="m8HAwiVdAj" thumbCode="m8HAwiVdAj" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="变更记录" ID="F3390AA9-0881-421B-B79E-1FA3C6C0BEE2" expanded="False" code="BiwGWnG4wx" thumbCode="BiwGWnG4wx" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+          </images>
+        </page>
+      </page>
+      <page name="统一视图" ID="B160C5F2-F174-4FC6-BC56-609090F97761" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+        <page name="客户看板" ID="136FB241-3E73-4A17-A29F-E04D9C18CB75" expanded="False" code="DdI267gE8h" thumbCode="DdI267gE8h" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+            <image key="94E9452D20864CF3FBC79CD2C4E76723.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="BED95C8B40F707D86B851FFCFC2CA465.svg"/>
+          </images>
+          <page name="客户评分" ID="3FF808AE-E3A0-4497-B6D8-2F643CD9F78B" expanded="True" code="Jz5iCeFyz8" thumbCode="Jz5iCeFyz8" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="客户报告" ID="373009D2-7430-4281-9B89-754E787B8537" expanded="True" code="zde6XzdiB2" thumbCode="zde6XzdiB2" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="负面信息" ID="1FDB4AC2-DC3B-41B8-B8A9-DE7578EAB9CE" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+            <page name="客户预警信息" ID="FF7155B3-55A1-4BCC-994D-405939CC7B86" expanded="False" code="XQYFGGqtBt" thumbCode="XQYFGGqtBt" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+                <image key="474A61FDC203C97B2EEFAF494C017CCB.svg"/>
+              </images>
+              <page name="历史认定等级信息" ID="FABD774E-5131-44F9-A85C-835FC97C5F39" expanded="False" code="6TSTgdmSDE" thumbCode="6TSTgdmSDE" status="psWhite" isfolder="False" isshownode="True">
+                <images>
+                  <image key="BED95C8B40F707D86B851FFCFC2CA465.svg"/>
+                  <image key="91852B86E51F760894554368302F9800.svg"/>
+                </images>
+              </page>
+            </page>
+            <page name="司法诉讼案件" ID="EBDFDD0B-7F82-4D9E-A86B-BFA96E133739" expanded="False" code="w6o6xwa4cx" thumbCode="w6o6xwa4cx" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+                <image key="4019BA27A1EBF1A8650EE69EA4ADEB3C.png"/>
+              </images>
+              <page name="案件明细列表" ID="CC7479D3-3D31-4F2A-88D9-16E9CF0CAC7E" expanded="True" code="2fpk2l51kk" thumbCode="2fpk2l51kk" status="psWhite" isfolder="False" isshownode="True">
+                <images>
+                  <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+                  <image key="91852B86E51F760894554368302F9800.svg"/>
+                </images>
+                <page name="案件详情" ID="A985B663-36A3-428A-9ECC-B140D160638E" expanded="False" code="YIB6ITciph" thumbCode="YIB6ITciph" status="psGreen" isfolder="False" isshownode="True">
+                  <images>
+                    <image key="91852B86E51F760894554368302F9800.svg"/>
+                  </images>
+                </page>
+              </page>
+            </page>
+            <page name="行政处罚事件" ID="F3101DEC-C4B3-4BE0-AA18-1FBB20AC0631" expanded="False" code="uedJzz7FXM" thumbCode="uedJzz7FXM" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+              </images>
+              <page name="行政处罚事件" ID="31C60366-46A1-422F-9903-BE8BD409AEA2" expanded="True" code="LT5weZLPk3" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+                <images>
+                  <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+                  <image key="91852B86E51F760894554368302F9800.svg"/>
+                </images>
+                <page name="处罚详情" ID="7EC90BA0-4D06-403E-BA6D-C0B03D25E365" expanded="False" code="FK7ZfJOjYS" thumbCode="" status="psGreen" isfolder="False" isshownode="True">
+                  <images>
+                    <image key="91852B86E51F760894554368302F9800.svg"/>
+                  </images>
+                </page>
+              </page>
+            </page>
+            <page name="纳税信用信息" ID="15B1A77B-E33A-449E-A480-C3B6FDBAF979" expanded="False" code="W7N2NEcwwf" thumbCode="W7N2NEcwwf" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+                <image key="F997593E2F64EA4EFC0EF04094737E0F.png"/>
+              </images>
+              <page name="纳税非正常户" ID="A687F714-B063-4520-A2EC-868F8966D1AB" expanded="False" code="pdSyp8pjXB" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+                <images>
+                  <image key="91852B86E51F760894554368302F9800.svg"/>
+                </images>
+              </page>
+              <page name="欠税信息" ID="485010F7-2B5A-4219-B4B7-A63E9286A756" expanded="False" code="PoLZ4xZzko" thumbCode="PoLZ4xZzko" status="psGreen" isfolder="False" isshownode="True">
+                <images>
+                  <image key="91852B86E51F760894554368302F9800.svg"/>
+                </images>
+              </page>
+            </page>
+            <page name="风险名单信息" ID="D63D08F0-EF77-4DCF-A845-41084BDE39BB" expanded="True" code="kL1MeZnEZ9" thumbCode="kL1MeZnEZ9" status="psWhite" isfolder="False" isshownode="True"/>
+          </page>
+        </page>
+        <page name="基础信息" ID="CD1C027D-18B9-4E60-9D77-F252FF76FD9F" expanded="False" code="m1cBioFw4M" thumbCode="m1cBioFw4M" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+          </images>
+          <page name="头部信息" ID="5554EB8C-BF84-4085-B7C9-CA70749F8A69" expanded="False" code="jccH3wdNLK" thumbCode="jccH3wdNLK" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="BED95C8B40F707D86B851FFCFC2CA465.svg"/>
+              <image key="94E9452D20864CF3FBC79CD2C4E76723.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="经营主体信息" ID="CAD5E98D-1A31-4ADF-BA30-16514614B239" expanded="False" code="cIwECDkqFH" thumbCode="cIwECDkqFH" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="个人家庭信息" ID="7A38A51A-31D6-43F2-9756-6AB2A6BC5747" expanded="True" code="nmJAzIzhq2" thumbCode="nmJAzIzhq2" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="在外投资信息" ID="D1582971-E8D8-47D4-A75C-70FF4A26DBC3" expanded="False" code="YjrStI8m59" thumbCode="YjrStI8m59" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="个人任职企业信息" ID="96AE6E7F-E12D-4684-8D6F-A906CBC5BEC6" expanded="False" code="KYptks24ez" thumbCode="KYptks24ez" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="住房公积金参缴信息" ID="F3A53EC9-2B25-4BB8-9AC2-DF0945D220AB" expanded="False" code="ZeUOwZVouu" thumbCode="ZeUOwZVouu" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="社会保险缴存信息" ID="E9B831AF-05D4-4B6F-B714-B381D77D1ADF" expanded="False" code="pLW1dmvq1P" thumbCode="pLW1dmvq1P" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="个人资格证书" ID="942A6AF8-A391-4BBC-83E1-A52CD16C8B4B" expanded="False" code="bCoeFtelD3" thumbCode="bCoeFtelD3" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="个人通讯信息" ID="D883742D-FC65-423E-95CF-98F2447EEDE5" expanded="False" code="1JNUJS1Pmq" thumbCode="1JNUJS1Pmq" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="资产信息" ID="D3DA9C62-BA6B-4D9E-A389-B896E3C9FA37" expanded="False" code="1whgTb25hm" thumbCode="1whgTb25hm" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+              <image key="0A4F9816C6E464E1D0E17F6E92DFB2F8.png"/>
+              <image key="A361D2125981B9A70BCB715252537FB5.png"/>
+            </images>
+            <page name="其他资产" ID="BFE3EB01-5B84-4856-85B9-72B812D0ABFA" expanded="False" code="LUtD54HItT" thumbCode="LUtD54HItT" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+              <page name="其他资产" ID="DB2A5AAC-4F72-4F9D-99EF-1FE53DA26042" expanded="False" code="5X7CkGOnRw" thumbCode="5X7CkGOnRw" status="psWhite" isfolder="False" isshownode="True"/>
+              <page name="金融资产" ID="D8C7754F-2575-4B50-9D4A-0790E5B6DE7D" expanded="False" code="gquLx7Nobz" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+              <page name="车辆" ID="A9F35CF9-98C4-41A6-BEC4-2CF7954F5FF8" expanded="False" code="yWyA8RvkeD" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+              <page name="房屋" ID="8C4FF086-9626-47E7-9DBD-B9C15405EEE0" expanded="False" code="RBRkFUFwxi" thumbCode="RBRkFUFwxi" status="psWhite" isfolder="False" isshownode="True"/>
+            </page>
+            <page name="抵质押资产" ID="1FEE3DF4-B434-4BC6-9904-4D9E118E8DD2" expanded="False" code="CilDby4v6C" thumbCode="CilDby4v6C" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+            <page name="理财" ID="F9FCE696-9EE0-4134-A4DC-432C6C189A99" expanded="False" code="yh8KflYcfo" thumbCode="yh8KflYcfo" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="862B4A57FAD78C544D11ACAE6C0174C0.png"/>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+            <page name="存款" ID="698B203B-6E45-47A5-BEB0-468627804369" expanded="False" code="bpkTdusIbi" thumbCode="bpkTdusIbi" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="3953F633DE48D09E0E2E8F9EDFD40ED7.png"/>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+                <image key="D0E85C8F90B0347503877CF2153139D8.png"/>
+                <image key="BDF4EA292CB982AA7E3405AFB9530500.png"/>
+              </images>
+            </page>
+          </page>
+        </page>
+        <page name="营销看板" ID="C0A16521-A241-4518-B948-61458D7D6431" expanded="False" code="dmX33RjzDU" thumbCode="5VlwawJXSQ" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+            <image key="94E9452D20864CF3FBC79CD2C4E76723.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="BED95C8B40F707D86B851FFCFC2CA465.svg"/>
+          </images>
+          <page name="他行融资情况" ID="828CE315-EFF3-4E27-BE56-9A36B30CEAB0" expanded="True" code="SLCt27dPLX" thumbCode="SLCt27dPLX" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="走访信息" ID="BB63C6CD-58DA-4F73-B60A-4BF00FAB2098" expanded="False" code="SyP5tFlXbf" thumbCode="SyP5tFlXbf" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+            <page name="走访详情" ID="035940F2-2C0B-4FF4-991E-ECAEF8FC9D91" expanded="False" code="uQ6xPSmwSW" thumbCode="uQ6xPSmwSW" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+          </page>
+          <page name="关联关系" ID="9BDCDC1C-16A0-46DE-8D5F-765F8BBB7573" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+            <page name="关联关系图谱" ID="75F96645-D88C-418F-8F7D-0DCE3F866F0B" expanded="False" code="XHFDoI2mR6" thumbCode="XHFDoI2mR6" status="psWhite" isfolder="False" isshownode="True"/>
+            <page name="同一风险控制号关系图谱" ID="68AC3747-7015-4424-B37D-97B5CCD2F910" expanded="False" code="wzNa21zyZR" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+            <page name="股权关联关系" ID="7408F8EF-9B13-493D-8C69-396F733ACC54" expanded="False" code="Afi3uaUPFo" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+            <page name="疑似集团关联关系" ID="E7C85DE7-9CDC-4648-A48C-0006F62E7D5F" expanded="False" code="OlEALG7SyR" thumbCode="OlEALG7SyR" status="psWhite" isfolder="False" isshownode="True"/>
+          </page>
+        </page>
+        <page name="融资及账户信息" ID="A74A7C1C-D107-4655-91D0-B4AFBB3BA2EA" expanded="False" code="UVOiSdd3B7" thumbCode="UVOiSdd3B7" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="4D1F1FDFBBF610B2A61FEF4F20F491DA.svg"/>
+            <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+            <image key="94E9452D20864CF3FBC79CD2C4E76723.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="705C52C11A77110C35ED58F4277B5E54.png"/>
+            <image key="BED95C8B40F707D86B851FFCFC2CA465.svg"/>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+            <image key="3A3CD3DB2FAE85FFEF2A8996E634645D.svg"/>
+          </images>
+          <page name="网贷产品明细" ID="6130FAEC-174E-4CFE-8A6A-26BB90CF223E" expanded="False" code="1MZUwuh1tW" thumbCode="1MZUwuh1tW" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="融资明细信息" ID="66F293B7-A6B3-4216-8F6E-812035571256" expanded="False" code="WpGodAvO5S" thumbCode="WpGodAvO5S" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="业务申请情况" ID="2CF9DCC9-FC26-4B3E-84C7-95EAC7A9526D" expanded="True" code="Nq8dEgwqZA" thumbCode="Nq8dEgwqZA" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="贷款信息汇总" ID="0EF2F9D5-B641-4265-B1A1-0433BC2AFCE0" expanded="False" status="psRed" isfolder="True" isshownode="True">
+            <page name="贷款信息汇总" ID="A4B14BDB-6B70-4787-8D54-653E2BEC751D" expanded="False" code="BNUMiUheAz" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+            <page name="贷款逾期汇总" ID="309ED87B-8AFF-4C8A-9CC1-801C63FE32FA" expanded="False" code="g9WaFrzkQc" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+            <page name="贷款账户类型汇总" ID="9F61DD96-7567-4C8E-A58B-0F67195EACF6" expanded="False" code="uzoovw3Tel" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+            <page name="业务种类汇总" ID="3A2F96E9-36C4-480E-AD7F-95EEEF41FFA0" expanded="False" code="Xk8uexXO4E" thumbCode="Xk8uexXO4E" status="psWhite" isfolder="False" isshownode="True"/>
+          </page>
+          <page name="贷记卡" ID="049FC1D2-0733-4F11-A21A-06458350414E" expanded="False" status="psRed" isfolder="True" isshownode="True">
+            <page name="贷记卡信息汇总" ID="887771D3-2E39-44DF-836D-CFD7E4410B70" expanded="True" code="yOzgYYOLBt" thumbCode="yOzgYYOLBt" status="psWhite" isfolder="False" isshownode="True"/>
+            <page name="贷款逾期汇总" ID="0495A2FE-6828-4C6B-BEAA-761F0C4BC030" expanded="False" code="AqoEDatb3C" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+            <page name="相关还款责任信息" ID="CBB08738-10BC-4B09-92DC-032BC0C390A3" expanded="False" code="IUFb1QZlbq" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+            <page name="未结清业务到期分布" ID="B0836855-2731-4582-95EF-EF321D92B262" expanded="False" code="IXbsmcIHfz" thumbCode="IXbsmcIHfz" status="psWhite" isfolder="False" isshownode="True"/>
+          </page>
+        </page>
+        <page name="贷后信息" ID="1E137F87-7EF3-4E07-BAAE-17EE99CCFEFE" expanded="True" code="lQiJUbtPEd" thumbCode="lQiJUbtPEd" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="BED95C8B40F707D86B851FFCFC2CA465.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="94E9452D20864CF3FBC79CD2C4E76723.svg"/>
+          </images>
+        </page>
+        <page name="客户贡献信息" ID="CB228138-99E3-4F2A-8A6E-CEEEC2F33279" expanded="False" code="8YmfuFmddA" thumbCode="8YmfuFmddA" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+      </page>
+    </page>
+    <page name="公司客户" ID="D632B79F-A639-4D49-9C3B-5C57E3DFEF82" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+      <page name="客户查询-公司客户" ID="29DA9BC2-EEA1-4021-AB53-89C6AD2AE00C" expanded="False" code="owRcqbZtTt" thumbCode="owRcqbZtTt" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+          <image key="91852B86E51F760894554368302F9800.svg"/>
+          <image key="CD4D64F6504DFB85F957B55C4C7BEE35.png"/>
+          <image key="D08755C22A9B40B6BF65036DEC8B44B4.svg"/>
+          <image key="B2F239FE2A3DA410C001FE3297A11B24.svg"/>
+        </images>
+      </page>
+      <page name="详情" ID="058AAC1B-E244-4765-BE5D-24F6C54950EA" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="客户基本信息" ID="F2751AE8-3749-46F7-9B43-29FAAC6AC4BE" expanded="True" code="yhwH54I3kh" thumbCode="q426XOKGwP" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="0B95B2D2737404225AC448D22AE22D5E.svg"/>
+            <image key="51ED992D000055983D8B8802C65E2870.svg"/>
+            <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+            <image key="CA87E59D4C4E6C46C8A3B241A3C41AE1.svg"/>
+            <image key="24AC6E9D0DB95CFF2CF4AFB878AB46D7.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+            <image key="643399502F4A768B9C36424C2FD37F95.svg"/>
+          </images>
+        </page>
+        <page name="客户财务信息" ID="4374F933-DAEB-4DB8-A708-AF9EE29C5467" expanded="False" code="Ssw6kByDhf" thumbCode="Ssw6kByDhf" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+            <image key="51ED992D000055983D8B8802C65E2870.svg"/>
+            <image key="075A4B9369EA18AF2016B6E029113F5D.svg"/>
+            <image key="CA87E59D4C4E6C46C8A3B241A3C41AE1.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="643399502F4A768B9C36424C2FD37F95.svg"/>
+            <image key="00A4C6AA108D35D88A78FE7CD5F8D12F.svg"/>
+          </images>
+          <page name="报表录入界面" ID="7745299F-7070-4750-9C01-15C2DEAFA18D" expanded="False" code="KQB6hQ3qLp" thumbCode="KQB6hQ3qLp" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="查看报表" ID="A2F8DD80-E324-4546-8024-65EEC29AA7F8" expanded="False" code="EwlhYk7Y3V" thumbCode="DL32TPFcrb" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="新增财务报表记录" ID="DD14D585-9181-4344-AECF-70D7838E4CB1" expanded="False" code="kpMkMfn5cB" thumbCode="LwLrbXiYlx" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+            </images>
+          </page>
+          <page name="财务分析-趋势" ID="67897E34-2644-4031-AC4B-588295BE5BE5" expanded="False" code="LtZLYRHXbP" thumbCode="LtZLYRHXbP" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+            <page name="财务分析-结构" ID="CAB9AE8D-66E9-4FC8-A4B0-2115DD4E8A22" expanded="False" code="zD5NPdcbXy" thumbCode="faqyAnnVXj" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+            <page name="财务分析-杜邦分析" ID="A1D2AEB0-C28E-4D36-84FF-03200C17C251" expanded="False" code="LoA1Ht794K" thumbCode="KVSVDQy2Ym" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+            <page name="财务分析-指标分析" ID="A9EA213C-49B8-4B96-A40D-D16BF843EAF9" expanded="False" code="KaNjo3veIN" thumbCode="czeZrgAM9J" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+          </page>
+          <page name="财务预警" ID="51103E75-7866-4EAE-A2EF-0D7CF0FCE5FA" expanded="False" code="zzE4dIwvkq" thumbCode="zzE4dIwvkq" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="客户资产与负债明细" ID="4AEC246D-F09B-46A0-8A18-5B5F18CF7537" expanded="False" code="Pp39SU2w4i" thumbCode="Pp39SU2w4i" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="51ED992D000055983D8B8802C65E2870.svg"/>
+              <image key="CA87E59D4C4E6C46C8A3B241A3C41AE1.svg"/>
+              <image key="24AC6E9D0DB95CFF2CF4AFB878AB46D7.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+              <image key="643399502F4A768B9C36424C2FD37F95.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="行内例外事项" ID="AE5DEE8C-44E6-4D62-A17F-D202F2E6A527" expanded="True" code="HTI25gOdcz" thumbCode="HTI25gOdcz" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+          </images>
+        </page>
+        <page name="历史征信查看" ID="7BED2C79-8D2B-4CB3-AF51-F640F4D47134" expanded="True" code="8b4t5dUpM7" thumbCode="8b4t5dUpM7" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="义乌商场征信查看" ID="870F4B9D-CFA3-45FA-BDEA-BE445EE58602" expanded="True" code="DbThTiBlhi" thumbCode="DbThTiBlhi" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="影像资料" ID="71B7B2A9-71AB-43A9-8313-FA2C53D1EF03" expanded="True" code="RXMQkUKPkU" thumbCode="RXMQkUKPkU" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="变更记录" ID="806D6798-DAD8-4AB9-B6D0-85920DD2F6CE" expanded="True" code="7Zaveoi4IS" thumbCode="7Zaveoi4IS" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+          </images>
+        </page>
+      </page>
+      <page name="新增" ID="B5A7C604-CD09-4592-B82F-B2C4070B1CF5" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+        <page name="新增-智能搜索" ID="2678A0BE-D10C-4744-B590-1595B2E1BCDC" expanded="True" code="U5g2jMBzfk" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+          <page name="ECIF疑似存量客户确认" ID="D20846E5-F467-4976-9808-8737130C73E0" expanded="False" code="81HhdiaVcK" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="新增-手工录入" ID="30E1D009-8C48-4419-89D2-A657D0CB2085" expanded="False" code="A1YGw6igt5" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+      </page>
+      <page name="客户360视图" ID="4C02481E-5142-4AC5-9CFA-34F4642DBCBD" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+        <page name="客户看板" ID="6A15EB78-0935-453F-BDC4-8FC94BEDDDFD" expanded="False" code="NyfFQfvZK9" thumbCode="NyfFQfvZK9" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+          <page name="客户评分" ID="951783E2-C6F8-4306-A409-4429A8FEEADD" expanded="False" code="IuzYZqXuD6" thumbCode="IuzYZqXuD6" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="客户报告" ID="1A03443F-2B58-4571-88DD-B1A9E6532A9B" expanded="False" code="KkI1nhgO9e" thumbCode="KkI1nhgO9e" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="基础信息" ID="1F335C2B-F723-462A-B615-506E2311A1A4" expanded="False" code="Or6LPOU9ju" thumbCode="Or6LPOU9ju" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+            <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+          <page name="变更记录" ID="5E92F20D-AF37-46D3-A5CE-4D6E0D4A4DE4" expanded="True" code="82v5I7tsjb" thumbCode="82v5I7tsjb" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="财务信息" ID="D9A3DA3C-9AF8-463A-B654-7114403FD88A" expanded="False" code="PEzh41daO2" thumbCode="PEzh41daO2" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+          <page name="资产负债表" ID="DACCA8BC-2C71-4C9A-AB09-879887275879" expanded="True" code="Xp7UBQR7qe" thumbCode="Xp7UBQR7qe" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="4C69E750851E947E76B471E19E145C35.png"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="1575D6EBA04EBB187F6AFE8C0164F4A0.png"/>
+              <image key="73F7BA35258E08B58809CA242B254A1C.png"/>
+            </images>
+          </page>
+          <page name="利润表" ID="65854D16-2852-4F43-BE51-7C6EFBCD6EF7" expanded="False" code="PeJ3lC5mgC" thumbCode="PeJ3lC5mgC" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="5CE288DD267EAC96CB0A89412B6EC6E5.png"/>
+            </images>
+          </page>
+          <page name="现金流量表" ID="DB2D5A07-B023-4D4C-8787-DF0F569F284B" expanded="True" code="ejHxlzXCUg" thumbCode="ejHxlzXCUg" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="34B150AE84859CA19A407BF1A0F65172.png"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="116CF30EE10672DBA661E0A97D7D7793.png"/>
+              <image key="0F78BF1452F2FCEE37623E29DBF21F23.png"/>
+            </images>
+          </page>
+        </page>
+        <page name="融资信息" ID="622B5002-AF45-4588-92BB-9AF88E29E276" expanded="False" code="QOYRdvfz4z" thumbCode="QOYRdvfz4z" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="705C52C11A77110C35ED58F4277B5E54.png"/>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+            <image key="3A3CD3DB2FAE85FFEF2A8996E634645D.svg"/>
+          </images>
+          <page name="债券发行明细" ID="EF0EF10D-ABE8-4B3F-BF1F-CB68CDB09F73" expanded="False" code="IfFXwZMB67" thumbCode="IfFXwZMB67" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="交易行情明细" ID="7A461BF4-170F-464C-92D2-4D7A8CE732F5" expanded="False" code="79BH2d2PTn" thumbCode="79BH2d2PTn" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="外部融资信息" ID="B2176F6E-D02F-4556-ADC5-A1465D934D44" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+            <page name="授信概要信息" ID="CD432147-442C-438E-8D9A-FC7C9B2BCAD0" expanded="True" code="pRNvtMT5fS" thumbCode="pRNvtMT5fS" status="psWhite" isfolder="False" isshownode="True"/>
+            <page name="授信机构贷款业务情况" ID="918CC3FE-594C-461B-95FA-89DA73213D07" expanded="False" code="wbDhEvl8El" thumbCode="wbDhEvl8El" status="psWhite" isfolder="False" isshownode="True"/>
+            <page name="授信业务品种分布" ID="C7FB4829-0AD4-42BB-9757-B06948C0338F" expanded="False" code="6uLE4rKcbS" thumbCode="6uLE4rKcbS" status="psWhite" isfolder="False" isshownode="True"/>
+            <page name="借款期限分布" ID="D1BC8210-4E46-4D67-8D84-A8B15AC13473" expanded="True" code="crZKrpqSQM" thumbCode="crZKrpqSQM" status="psWhite" isfolder="False" isshownode="True"/>
+            <page name="履约历史" ID="3960A6F3-DC1A-48C8-9D62-F1D489044EE8" expanded="False" code="GWbpWaJ8v7" thumbCode="GWbpWaJ8v7" status="psWhite" isfolder="False" isshownode="True"/>
+            <page name="还款责任" ID="531FAC5C-0BB5-4B63-8FF0-C62F585F6A63" expanded="False" code="jhYUsquUH5" thumbCode="jhYUsquUH5" status="psWhite" isfolder="False" isshownode="True"/>
+            <page name="担保方式" ID="2CCEF2CE-6EFD-4693-A554-CC6D702CEFB7" expanded="False" code="IhI4sFNMtV" thumbCode="IhI4sFNMtV" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="FBC294BB62C848E06CB3CC989B4272B9.png"/>
+              </images>
+            </page>
+          </page>
+        </page>
+        <page name="资产信息" ID="6D1BBD50-6F8B-46A3-BB61-C39DDF12C50D" expanded="False" code="CUYjj2s42N" thumbCode="CUYjj2s42N" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+          <page name="存款余额变化明细" ID="1B514C2C-B315-4BBE-AF3E-C40B06E30A6B" expanded="False" code="MfART48Qou" thumbCode="MfART48Qou" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="押品明细" ID="F9FA6436-A51F-4691-8477-B8FCD206EE69" expanded="False" code="rUPThhMzSV" thumbCode="rUPThhMzSV" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="账户信息" ID="7AAB6C92-9872-437C-8DB8-D77CF2B5E8F4" expanded="False" code="FIujSpgcMk" thumbCode="FIujSpgcMk" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="4D1F1FDFBBF610B2A61FEF4F20F491DA.svg"/>
+          </images>
+        </page>
+        <page name="负面信息" ID="CE7429C5-431B-4FF4-889F-C2F727B91CB5" expanded="False" code="9iNWGQAb7A" thumbCode="9iNWGQAb7A" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+          <page name="客户预警信息" ID="8AB264D9-5F51-468E-8E36-B4C2B68E01A2" expanded="False" code="nWiciXJ6yt" thumbCode="nWiciXJ6yt" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+              <image key="474A61FDC203C97B2EEFAF494C017CCB.svg"/>
+            </images>
+            <page name="历史认定等级信息" ID="D8DA2088-2490-4905-9967-1D1F35FAA415" expanded="False" code="FCHn5oMhCi" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="BED95C8B40F707D86B851FFCFC2CA465.svg"/>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+          </page>
+          <page name="司法诉讼案件" ID="73244A03-CBC0-4A87-B798-51E7CE6A3947" expanded="False" code="MwqYLvzdeI" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+              <image key="4019BA27A1EBF1A8650EE69EA4ADEB3C.png"/>
+            </images>
+            <page name="案件明细列表" ID="344E7155-622D-429A-8A2A-DD3F2B94C4BB" expanded="True" code="fNXi81MlIa" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+              <page name="案件详情" ID="6456A8F3-4D75-4700-BE44-438FD7FC3DDE" expanded="False" code="dq97j2iyGL" thumbCode="" status="psGreen" isfolder="False" isshownode="True">
+                <images>
+                  <image key="91852B86E51F760894554368302F9800.svg"/>
+                </images>
+              </page>
+            </page>
+          </page>
+          <page name="行政处罚事件" ID="0C8D4C7F-1677-48A1-9932-CB98F07FBB1F" expanded="False" code="kEhV3vQCSf" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+            </images>
+            <page name="行政处罚事件" ID="38C62D6E-E142-42BA-A6F4-3241FB4007A8" expanded="True" code="6oub9sJT6a" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+              <page name="处罚详情" ID="D5DACE44-1261-4DDC-9043-F39E86807352" expanded="False" code="WKujpiHGgR" thumbCode="" status="psGreen" isfolder="False" isshownode="True">
+                <images>
+                  <image key="91852B86E51F760894554368302F9800.svg"/>
+                </images>
+              </page>
+            </page>
+          </page>
+          <page name="纳税信用信息" ID="25A827D6-4F6C-4CCA-97EE-B114833F70EA" expanded="False" code="Gt7tysC1vp" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+              <image key="F997593E2F64EA4EFC0EF04094737E0F.png"/>
+            </images>
+            <page name="纳税非正常户" ID="B3BEA9B2-3AA4-40C9-B12E-F06E1E67A3EB" expanded="False" code="h4qMrWyr4f" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+            <page name="欠税信息" ID="2FB1E326-34E4-4288-9375-F0F69060DA71" expanded="False" code="hASO26WN5I" thumbCode="" status="psGreen" isfolder="False" isshownode="True">
+              <images>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+          </page>
+          <page name="风险名单信息" ID="79F95123-C9EF-4745-8B3E-63E896F711AB" expanded="False" code="a532AcHwTj" thumbCode="a532AcHwTj" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="新闻舆情" ID="3F4B27DA-1086-4D62-ABA9-DA4AAB679A2E" expanded="False" code="QjJ9yHhiVe" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+        </page>
+        <page name="关联信息" ID="62B15ABF-B341-40EE-90E1-A347782444A0" expanded="True" code="zShvbapAzw" thumbCode="zShvbapAzw" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="贷后信息" ID="67FEC9F4-6F15-43D6-96A1-7337C658D50B" expanded="False" code="m2xaINcVsh" thumbCode="m2xaINcVsh" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="客户贡献信息" ID="B98A3F90-45D5-4EFE-9CC9-3D7EB98D2BF5" expanded="False" code="4eiGb8b8ZN" thumbCode="4eiGb8b8ZN" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+      </page>
+    </page>
+    <page name="同业客户" ID="D1722CD9-60B9-4180-B709-88EE3DA82796" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+      <page name="客户查询-同业客户" ID="CA9730C6-08E5-46EA-A28A-7E9D5C3F957F" expanded="True" code="qaL8GWmAGp" thumbCode="qaL8GWmAGp" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+          <image key="91852B86E51F760894554368302F9800.svg"/>
+          <image key="D08755C22A9B40B6BF65036DEC8B44B4.svg"/>
+          <image key="B2F239FE2A3DA410C001FE3297A11B24.svg"/>
+        </images>
+      </page>
+      <page name="详情" ID="872F04AF-D94A-4197-B9BC-D9186C1F966F" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+        <page name="客户基本信息" ID="0FCC8C44-287B-4D71-97B2-528BEF46A795" expanded="True" code="85DoiOVJBk" thumbCode="85DoiOVJBk" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="0B95B2D2737404225AC448D22AE22D5E.svg"/>
+            <image key="51ED992D000055983D8B8802C65E2870.svg"/>
+            <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+            <image key="CA87E59D4C4E6C46C8A3B241A3C41AE1.svg"/>
+            <image key="24AC6E9D0DB95CFF2CF4AFB878AB46D7.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+            <image key="643399502F4A768B9C36424C2FD37F95.svg"/>
+            <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+          </images>
+        </page>
+        <page name="客户财务信息" ID="E51D17B5-F066-45CB-9B7A-35A15A81D44F" expanded="False" code="BFQlVX6wrp" thumbCode="BFQlVX6wrp" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+            <image key="51ED992D000055983D8B8802C65E2870.svg"/>
+            <image key="075A4B9369EA18AF2016B6E029113F5D.svg"/>
+            <image key="CA87E59D4C4E6C46C8A3B241A3C41AE1.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="643399502F4A768B9C36424C2FD37F95.svg"/>
+            <image key="00A4C6AA108D35D88A78FE7CD5F8D12F.svg"/>
+          </images>
+          <page name="报表录入界面" ID="F2133EC9-E9AB-47F8-ABC1-E93D9E5E2207" expanded="False" code="uAsHub4xOE" thumbCode="uAsHub4xOE" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="查看报表" ID="A5CE99F8-4B33-4436-9C65-D58A0D11B8B1" expanded="False" code="rLWFmsKc4o" thumbCode="rLWFmsKc4o" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="新增财务报表记录" ID="A034801F-7BF0-4BDF-A2C3-D3A96038DCB2" expanded="False" code="ZAxoiYxNtD" thumbCode="ZAxoiYxNtD" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+            </images>
+          </page>
+          <page name="财务分析-趋势" ID="1307101C-10F6-49FA-94C3-01CF8443D9E4" expanded="False" code="TKA5k64Oic" thumbCode="TKA5k64Oic" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+            <page name="财务分析-结构" ID="14001762-EDB3-403B-B787-E86510531531" expanded="False" code="EAE2aGDf7U" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+            <page name="财务分析-杜邦分析" ID="B5F4F1E1-6607-4CE4-8CAA-E3C7A615C0CE" expanded="False" code="UMsWKV8uxc" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+            <page name="财务分析-指标分析" ID="95C9CD2F-E16D-4E23-A838-855B02174BCA" expanded="False" code="SwivfZGmNC" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+          </page>
+          <page name="财务预警" ID="FA95756C-AB23-4D6E-A352-751EB23213E3" expanded="False" code="fO31yEWlpE" thumbCode="fO31yEWlpE" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="客户资产与负债明细" ID="CCAE2085-CE28-4021-99DF-A9ED78109459" expanded="False" code="lHJueblim3" thumbCode="lHJueblim3" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="CA87E59D4C4E6C46C8A3B241A3C41AE1.svg"/>
+              <image key="24AC6E9D0DB95CFF2CF4AFB878AB46D7.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+              <image key="51ED992D000055983D8B8802C65E2870.svg"/>
+              <image key="643399502F4A768B9C36424C2FD37F95.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="行内例外事项" ID="B599323D-B1D8-4CB7-A567-01178AF81A66" expanded="False" code="eaTPCtVB6s" thumbCode="eaTPCtVB6s" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+          </images>
+        </page>
+        <page name="历史征信查看" ID="F3992DCD-8EB4-4C6E-8332-9607A875E6F3" expanded="False" code="PIPpNsWJ2w" thumbCode="PIPpNsWJ2w" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="义乌商场征信查看" ID="5C2FB0A2-CD75-4257-B737-6B9019D2617C" expanded="False" code="E3mq8Qw6Ev" thumbCode="E3mq8Qw6Ev" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="影像资料" ID="6662BE91-ECE1-45A0-9E04-FE7505CD74C5" expanded="False" code="cx7qchnpPo" thumbCode="cx7qchnpPo" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="变更记录" ID="7981D526-7FA2-4817-83B5-6173DEE81AB6" expanded="False" code="n2bmiunmye" thumbCode="n2bmiunmye" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+          </images>
+        </page>
+      </page>
+      <page name="新增" ID="4FBCDA7F-EBA0-4B7B-BFA1-FF98C0316237" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+        <page name="新增-智能搜索" ID="62665814-A50A-4E23-83DB-53D6961A8CDB" expanded="True" code="kUBnACuuvM" thumbCode="kUBnACuuvM" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+          <page name="ECIF疑似存量客户确认" ID="C73B37E9-9D98-4BC9-8333-BE187FA7B1D8" expanded="False" code="JhLAyO9s7i" thumbCode="JhLAyO9s7i" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="新增-手工录入" ID="AD65D5E5-C2EC-4A1D-9D14-1599F68144E1" expanded="False" code="9SKSzJYWBb" thumbCode="9SKSzJYWBb" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+      </page>
+      <page name="客户统一视图" ID="F4B74850-C019-42C4-BF9F-EA9B829644D7" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+        <page name="客户看板" ID="84D9F678-45D8-4C48-A034-582D99136A93" expanded="False" code="2OU5faso7V" thumbCode="2OU5faso7V" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+          </images>
+          <page name="客户评分" ID="E832C0AF-EF15-489F-BBFA-83902C0D0EF4" expanded="False" code="fx9hzkE1uH" thumbCode="fx9hzkE1uH" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="客户报告" ID="2C59FCBB-C1C0-49E1-8EA1-EF4062650860" expanded="False" code="qtsWx9qKvx" thumbCode="qtsWx9qKvx" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="同业固定头部信息" ID="C0C102C2-B286-455D-8AB1-7D2D48E96E81" expanded="False" code="ERlrZgdRNc" thumbCode="ERlrZgdRNc" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="基础信息" ID="4CFAF4D9-705D-4930-AF00-DF866C8DCE48" expanded="False" code="Nw8FBkTYaz" thumbCode="Nw8FBkTYaz" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+            <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+          </images>
+          <page name="变更记录" ID="614A22D7-E62C-4870-830E-8B51BC47D009" expanded="True" code="izXIWc59LT" thumbCode="izXIWc59LT" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="财务信息" ID="4715BF94-2CA0-4926-AB25-EE148E07DD9F" expanded="False" code="jjOkHEcjSG" thumbCode="jjOkHEcjSG" status="psWhite" isfolder="False" isshownode="True">
+          <page name="资产负债表" ID="DFC84198-9417-490A-87F3-28C49BA301F8" expanded="False" code="CQiBhtvO23" thumbCode="WefoPruMpr" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="4C69E750851E947E76B471E19E145C35.png"/>
+              <image key="1575D6EBA04EBB187F6AFE8C0164F4A0.png"/>
+              <image key="73F7BA35258E08B58809CA242B254A1C.png"/>
+            </images>
+          </page>
+          <page name="利润表" ID="E8A62180-1D9F-4960-9346-DC9FE7F833E7" expanded="False" code="LNBoqWLQKD" thumbCode="Oxa1fequw2" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="5CE288DD267EAC96CB0A89412B6EC6E5.png"/>
+            </images>
+          </page>
+          <page name="现金流量表" ID="9F5DA624-7164-437E-892C-1742AF6619ED" expanded="False" code="NHSMzSpFSX" thumbCode="NHSMzSpFSX" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="116CF30EE10672DBA661E0A97D7D7793.png"/>
+              <image key="34B150AE84859CA19A407BF1A0F65172.png"/>
+              <image key="0F78BF1452F2FCEE37623E29DBF21F23.png"/>
+            </images>
+          </page>
+        </page>
+        <page name="融资信息" ID="BD4FBE98-7E00-43CC-9149-9513C7536CF4" expanded="False" code="PWPhwaUn3M" thumbCode="PWPhwaUn3M" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+            <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+          </images>
+          <page name="债券发行明细" ID="C572FDF8-2316-4543-9D35-DD4317DA7F98" expanded="False" code="fLBwKvbGyA" thumbCode="fLBwKvbGyA" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="交易行情明细" ID="DB82072C-A883-495C-BC4E-EBE0297E23B7" expanded="True" code="D83Fh23EDi" thumbCode="D83Fh23EDi" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="关联信息" ID="F45360A7-8BC3-42EE-BA8C-B44AC08A48B9" expanded="True" code="fr25PJtIt8" thumbCode="fr25PJtIt8" status="psWhite" isfolder="False" isshownode="True"/>
+      </page>
+    </page>
+    <page name="客户管理" ID="7C67038D-35EC-42C8-A303-51CC071A6A07" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+      <page name="灰名单调级申请" ID="C8440B9D-2246-4730-BED2-D67F170CFACF" expanded="False" code="UzOQZAvJP3" thumbCode="UzOQZAvJP3" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A8AE908FA7B8403CE55A63C41223050C.svg"/>
+          <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+          <image key="E931D537FC6921BF4CC4EE668806CEFD.svg"/>
+          <image key="51ED992D000055983D8B8802C65E2870.svg"/>
+          <image key="B2F239FE2A3DA410C001FE3297A11B24.svg"/>
+          <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+          <image key="91852B86E51F760894554368302F9800.svg"/>
+          <image key="6F7C3CE301A6DAFC315C06E608F33D28.png"/>
+          <image key="D08755C22A9B40B6BF65036DEC8B44B4.svg"/>
+        </images>
+        <page name="新增申请" ID="B0833012-F5FE-45A7-8FA1-B470096239C2" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+          <page name="新增-选择客户" ID="222DA1AE-3D7B-4FFA-86E0-06878F1B0444" expanded="True" code="fLRiZ3xfIh" thumbCode="fLRiZ3xfIh" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="E931D537FC6921BF4CC4EE668806CEFD.svg"/>
+              <image key="3F90A725F97A4C7F1C6DD1122B464A22.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="申请信息" ID="3AFB9E81-361E-40D8-86A5-8B58ABE142CD" expanded="True" code="eIMOWfbP7k" thumbCode="cdZ3cK3EgZ" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="3F90A725F97A4C7F1C6DD1122B464A22.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+              <image key="D08755C22A9B40B6BF65036DEC8B44B4.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="查看-详情" ID="A68AC5CC-E6AF-439C-B787-5203A237E3FE" expanded="True" code="Q5NGdK7KWM" thumbCode="Q5NGdK7KWM" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="任务处理" ID="BB848F5A-B25B-4691-A2A9-CD382504A933" expanded="False" code="NldKG8g8BA" thumbCode="NldKG8g8BA" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+          <page name="选择审批人" ID="07839E69-4B9E-43C6-A409-B3CBB392466F" expanded="True" code="TFNKqpaqb3" thumbCode="TFNKqpaqb3" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+            </images>
+            <page name="搜索" ID="5ECA6876-AB33-4840-B78F-42C20D53D751" expanded="False" code="M8DC7shLVu" thumbCode="M8DC7shLVu" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="58797BD99A5B6A63676E70F5E9D20AA7.jpg"/>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+            <page name="搜索-结果" ID="B04E60BB-5101-449A-B2C5-3DB6FCB21080" expanded="False" code="79hHFebFN6" thumbCode="79hHFebFN6" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+          </page>
+        </page>
+        <page name="查看意见" ID="E00E540C-35C5-45E6-AE18-74988CD0BEA3" expanded="True" code="8xmTvGRDe9" thumbCode="8xmTvGRDe9" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="4C3C233DC64D98300AEF0ACD33AD1D2F.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="查看流程图" ID="D0B8E899-0AE2-4DAE-9EAF-4F4E74FDFCCD" expanded="True" code="ZBfGDuhj3C" thumbCode="ZBfGDuhj3C" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="BBE985EE7CD78A3677BA89402BC2A068.png"/>
+          </images>
+        </page>
+        <page name="灰名单调级申请-审批中" ID="A074B8C0-0966-40AC-9C1E-27151C7A3089" expanded="True" code="CIIT6w1F2I" thumbCode="CIIT6w1F2I" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="6F7C3CE301A6DAFC315C06E608F33D28.png"/>
+            <image key="E931D537FC6921BF4CC4EE668806CEFD.svg"/>
+            <image key="B2F239FE2A3DA410C001FE3297A11B24.svg"/>
+            <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+          </images>
+        </page>
+        <page name="灰名单调级申请-已完成" ID="008FA610-2283-4147-85FB-926C8E287D33" expanded="True" code="cWu6HtX2ZG" thumbCode="cWu6HtX2ZG" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="6F7C3CE301A6DAFC315C06E608F33D28.png"/>
+            <image key="E931D537FC6921BF4CC4EE668806CEFD.svg"/>
+            <image key="B2F239FE2A3DA410C001FE3297A11B24.svg"/>
+            <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+          </images>
+        </page>
+      </page>
+      <page name="灰名单调级审批" ID="22E65818-2DE0-4E54-A8C7-FFF2C4CE9DBD" expanded="False" code="VhWe7pTdjz" thumbCode="yeKA8FHcfM" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A8AE908FA7B8403CE55A63C41223050C.svg"/>
+          <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+          <image key="E931D537FC6921BF4CC4EE668806CEFD.svg"/>
+          <image key="B2F239FE2A3DA410C001FE3297A11B24.svg"/>
+          <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+          <image key="91852B86E51F760894554368302F9800.svg"/>
+          <image key="6F7C3CE301A6DAFC315C06E608F33D28.png"/>
+          <image key="D08755C22A9B40B6BF65036DEC8B44B4.svg"/>
+        </images>
+        <page name="查看-详情" ID="6A5AC281-C976-4D85-97D9-6E9D181372D4" expanded="True" code="8hcBhpZsYV" thumbCode="8hcBhpZsYV" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="任务处理" ID="E063696B-811E-4BDB-B58F-BE122DB1A111" expanded="False" code="r5h5OZQ9Zc" thumbCode="r5h5OZQ9Zc" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+          <page name="提交动作" ID="D24554CA-182F-4477-AB53-DEB2A0670DB7" expanded="True" code="49LtTtCYkh" thumbCode="49LtTtCYkh" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="回退动作" ID="B6BE2E50-9A60-4143-B119-CF6B946445D2" expanded="True" code="hloqHrmhSS" thumbCode="hloqHrmhSS" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="选择审批人" ID="4F2CD6B6-893C-406A-BA93-36E05E51185E" expanded="False" code="s5c6imTxCn" thumbCode="s5c6imTxCn" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+            </images>
+            <page name="搜索" ID="2BB528B6-597F-414A-8116-18CFFECCF997" expanded="True" code="zbIhPs3IlB" thumbCode="pD15GyE67e" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="58797BD99A5B6A63676E70F5E9D20AA7.jpg"/>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+            <page name="搜索-结果" ID="83FE13EA-D835-4FAE-A768-7C838B4ED5A7" expanded="True" code="SH3sydQziR" thumbCode="SH3sydQziR" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+          </page>
+        </page>
+        <page name="查看意见" ID="13717EDD-7832-4D3A-AF2F-D0C2160E40FC" expanded="False" code="zFe7oG6cXZ" thumbCode="zFe7oG6cXZ" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="4C3C233DC64D98300AEF0ACD33AD1D2F.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="查看流程图" ID="2D0BD4D2-0E0A-46C5-A010-9AB17D8AE2EF" expanded="False" code="4jqeqnjCRH" thumbCode="4jqeqnjCRH" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="BBE985EE7CD78A3677BA89402BC2A068.png"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="灰名单调级审批-已办任务" ID="74ED7A71-0DF7-4339-8230-D91AC5900B29" expanded="False" code="5eYZbLhIXv" thumbCode="5eYZbLhIXv" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+            <image key="E931D537FC6921BF4CC4EE668806CEFD.svg"/>
+            <image key="B2F239FE2A3DA410C001FE3297A11B24.svg"/>
+            <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="6F7C3CE301A6DAFC315C06E608F33D28.png"/>
+          </images>
+        </page>
+      </page>
+      <page name="客户权限申请" ID="34EF7BEC-CCC5-423B-9AA6-CB17B5945558" expanded="False" code="6RRxmO9egb" thumbCode="6RRxmO9egb" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A8AE908FA7B8403CE55A63C41223050C.svg"/>
+          <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+          <image key="E931D537FC6921BF4CC4EE668806CEFD.svg"/>
+          <image key="B2F239FE2A3DA410C001FE3297A11B24.svg"/>
+          <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+          <image key="DBB844EC461D6A8CA9FCF93DBD823F2F.svg"/>
+          <image key="91852B86E51F760894554368302F9800.svg"/>
+          <image key="6F7C3CE301A6DAFC315C06E608F33D28.png"/>
+          <image key="D08755C22A9B40B6BF65036DEC8B44B4.svg"/>
+        </images>
+        <page name="新增申请信息" ID="EE68E325-E773-4454-9FC7-F6A5EAFB9F1D" expanded="True" code="8WiHwVplK4" thumbCode="8WiHwVplK4" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="3F90A725F97A4C7F1C6DD1122B464A22.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+          <page name="新增-选择客户" ID="712C0679-174E-4E22-B835-4EACE1865856" expanded="False" code="XkqqGPxsDH" thumbCode="XkqqGPxsDH" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="3F90A725F97A4C7F1C6DD1122B464A22.svg"/>
+              <image key="E931D537FC6921BF4CC4EE668806CEFD.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="A557F34EB8C2697B635D21EE5EFD4E42.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="查看-详情" ID="ACB76116-D3A9-4832-B2F9-07F3BE341878" expanded="False" code="rYAUDfCa3X" thumbCode="rYAUDfCa3X" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="任务处理" ID="9FF7EAB6-B9D4-4400-92E2-AB4C6200EAA4" expanded="False" code="qww9ntorBf" thumbCode="qww9ntorBf" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="查看意见" ID="956AA27F-A43F-4DB6-AE2A-6928A7644702" expanded="False" code="OaJxRaAZsE" thumbCode="OaJxRaAZsE" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="4C3C233DC64D98300AEF0ACD33AD1D2F.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="查看流程图" ID="A5807433-488D-4759-9083-022695C9D3C4" expanded="False" code="WItTrZjF37" thumbCode="WItTrZjF37" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="BBE985EE7CD78A3677BA89402BC2A068.png"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="客户权限申请-审批中" ID="D152E58D-C421-4222-B7D0-814CD5A81891" expanded="False" code="6QcENXjmrc" thumbCode="6QcENXjmrc" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+            <image key="E931D537FC6921BF4CC4EE668806CEFD.svg"/>
+            <image key="B2F239FE2A3DA410C001FE3297A11B24.svg"/>
+            <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="6F7C3CE301A6DAFC315C06E608F33D28.png"/>
+          </images>
+        </page>
+        <page name="客户权限申请-已完成" ID="A50B0D26-A02A-4F1D-99CC-6AA9EE39626B" expanded="True" code="4pSK9S4zXY" thumbCode="4pSK9S4zXY" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+            <image key="E931D537FC6921BF4CC4EE668806CEFD.svg"/>
+            <image key="B2F239FE2A3DA410C001FE3297A11B24.svg"/>
+            <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="6F7C3CE301A6DAFC315C06E608F33D28.png"/>
+          </images>
+        </page>
+      </page>
+      <page name="客户权限审批" ID="67EFA05B-06F5-4658-B7C9-45495F914E91" expanded="False" code="6onJXN4PhU" thumbCode="fUAZjVzGNV" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A8AE908FA7B8403CE55A63C41223050C.svg"/>
+          <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+          <image key="E931D537FC6921BF4CC4EE668806CEFD.svg"/>
+          <image key="B2F239FE2A3DA410C001FE3297A11B24.svg"/>
+          <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+          <image key="91852B86E51F760894554368302F9800.svg"/>
+          <image key="6F7C3CE301A6DAFC315C06E608F33D28.png"/>
+        </images>
+        <page name="查看-详情" ID="3A634AA6-89FB-43C6-B2B6-A72527F53BD3" expanded="True" code="zRzxVgj2vs" thumbCode="zRzxVgj2vs" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="任务处理" ID="7566548F-EFBB-4F2F-A469-84C4B7404266" expanded="False" code="eHTMoPUiHS" thumbCode="eHTMoPUiHS" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+          <page name="提交动作" ID="68E1D09A-524E-4B9B-853D-AE95EDE7A8BC" expanded="False" code="vsKQXTvR6i" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="回退动作" ID="BBE99EF4-9D4E-4C14-915F-F495372ECAEC" expanded="False" code="Sx6596S2kj" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="选择审批人" ID="FC539699-D961-4732-9CF6-654A8F75771F" expanded="True" code="8kdgbCUTVK" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+            </images>
+            <page name="搜索" ID="8E67073B-14C4-48C4-B2FC-6A2F095DB83B" expanded="False" code="RdteuC1dHr" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="58797BD99A5B6A63676E70F5E9D20AA7.jpg"/>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+            <page name="搜索-结果" ID="459B1ED4-F196-441D-A600-E883D0C4F4CC" expanded="False" code="9HlEcy1vl5" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+          </page>
+        </page>
+        <page name="查看意见" ID="DCBCA06A-F32C-41C4-A88D-91C46F64934C" expanded="True" code="eCvUIYj5cD" thumbCode="eCvUIYj5cD" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="4C3C233DC64D98300AEF0ACD33AD1D2F.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="查看流程图" ID="C7707824-3632-415D-B832-1C2573E9939C" expanded="False" code="dXj3vqwsG9" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="BBE985EE7CD78A3677BA89402BC2A068.png"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="客户权限申请-已办任务" ID="1139536B-657C-4D22-B7B4-21560180A21B" expanded="True" code="SunJodJrPU" thumbCode="SunJodJrPU" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+            <image key="E931D537FC6921BF4CC4EE668806CEFD.svg"/>
+            <image key="B2F239FE2A3DA410C001FE3297A11B24.svg"/>
+            <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="6F7C3CE301A6DAFC315C06E608F33D28.png"/>
+          </images>
+        </page>
+      </page>
+      <page name="客户信息维护申请" ID="E5D5A223-0C6D-46A5-95E7-090A1F2C0F97" expanded="False" code="2kngNVJiOJ" thumbCode="2kngNVJiOJ" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A8AE908FA7B8403CE55A63C41223050C.svg"/>
+          <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+          <image key="E931D537FC6921BF4CC4EE668806CEFD.svg"/>
+          <image key="51ED992D000055983D8B8802C65E2870.svg"/>
+          <image key="B2F239FE2A3DA410C001FE3297A11B24.svg"/>
+          <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+          <image key="91852B86E51F760894554368302F9800.svg"/>
+          <image key="6F7C3CE301A6DAFC315C06E608F33D28.png"/>
+          <image key="D08755C22A9B40B6BF65036DEC8B44B4.svg"/>
+        </images>
+        <page name="新增申请信息" ID="F7D47F99-B1AE-49B5-99E6-92EC7FBC1CAC" expanded="False" code="MHW9PY6pjz" thumbCode="MHW9PY6pjz" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+          <page name="新增-选择客户" ID="AFEF2848-FE6E-418A-B84A-4A44C183C2E2" expanded="False" code="qd9lNafiH8" thumbCode="qd9lNafiH8" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="3F90A725F97A4C7F1C6DD1122B464A22.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="E931D537FC6921BF4CC4EE668806CEFD.svg"/>
+              <image key="A557F34EB8C2697B635D21EE5EFD4E42.svg"/>
+            </images>
+          </page>
+          <page name="客户信息维护" ID="89129F42-4B99-43A8-BD40-A189CFFE173D" expanded="False" code="1j5hTteJTN" thumbCode="1j5hTteJTN" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+            </images>
+          </page>
+          <page name="变更记录" ID="0BFF24F1-A173-48C3-8779-10E4A8B84FBB" expanded="False" code="4KVAKkSEO6" thumbCode="4KVAKkSEO6" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+            </images>
+          </page>
+          <page name="影像资料" ID="112C68DC-7941-4389-A5E5-48A06C97404A" expanded="False" code="XkvWFHBTIC" thumbCode="XkvWFHBTIC" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="D08755C22A9B40B6BF65036DEC8B44B4.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="DB7FC814F441C17601BBA7EA29C0CC4C.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="查看-详情" ID="58F2DAF7-4AFA-4E02-9558-BD8E1D0ED92B" expanded="True" code="7tGW4yu3bz" thumbCode="7tGW4yu3bz" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+          </images>
+        </page>
+        <page name="任务处理" ID="F5D17D84-E416-4A0F-8FBE-995B027FA77A" expanded="False" code="j5HtMJm5iL" thumbCode="55XztrPX3a" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+          <page name="选择审批人" ID="4FA60412-EA5C-445E-B9F5-C6EA05225145" expanded="True" code="5BeTfMb3f3" thumbCode="5BeTfMb3f3" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+            </images>
+            <page name="搜索" ID="8843AA20-5B2E-47DC-887C-2BFFE79146FE" expanded="False" code="eyP1WIIpuE" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="58797BD99A5B6A63676E70F5E9D20AA7.jpg"/>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+            <page name="搜索-结果" ID="F652CB26-B657-4CD2-886A-E82B52ABB337" expanded="False" code="zOKUnLqB76" thumbCode="zOKUnLqB76" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+          </page>
+        </page>
+        <page name="查看意见" ID="6BB88DDE-886A-490B-953E-A4D8E9BC81C2" expanded="False" code="O3qCe874tn" thumbCode="O3qCe874tn" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="4C3C233DC64D98300AEF0ACD33AD1D2F.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="查看流程图" ID="4BCEB09C-B368-4BC2-8B37-47932B15B50A" expanded="False" code="e92NYIkJRk" thumbCode="yJsvw1aNm8" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="BBE985EE7CD78A3677BA89402BC2A068.png"/>
+          </images>
+        </page>
+        <page name="客户信息维护申请-审批中" ID="E99C9358-03C7-42C3-BA38-6C7E622E65C7" expanded="True" code="ztC7RReiNU" thumbCode="ztC7RReiNU" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="6F7C3CE301A6DAFC315C06E608F33D28.png"/>
+            <image key="E931D537FC6921BF4CC4EE668806CEFD.svg"/>
+            <image key="B2F239FE2A3DA410C001FE3297A11B24.svg"/>
+            <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+          </images>
+        </page>
+        <page name="客户信息维护申请-已完成" ID="1A016DFD-E94D-4F8E-B863-BB3FBB6CF866" expanded="True" code="XJrVf24jhA" thumbCode="XJrVf24jhA" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="6F7C3CE301A6DAFC315C06E608F33D28.png"/>
+            <image key="E931D537FC6921BF4CC4EE668806CEFD.svg"/>
+            <image key="B2F239FE2A3DA410C001FE3297A11B24.svg"/>
+            <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+          </images>
+        </page>
+      </page>
+      <page name="客户信息维护审批" ID="6D86575C-B241-4DEF-B587-2CF1081981C4" expanded="False" code="wQNajmU2tQ" thumbCode="wQNajmU2tQ" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A8AE908FA7B8403CE55A63C41223050C.svg"/>
+          <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+          <image key="E931D537FC6921BF4CC4EE668806CEFD.svg"/>
+          <image key="B2F239FE2A3DA410C001FE3297A11B24.svg"/>
+          <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+          <image key="91852B86E51F760894554368302F9800.svg"/>
+          <image key="6F7C3CE301A6DAFC315C06E608F33D28.png"/>
+        </images>
+        <page name="任务处理" ID="097E680F-419A-4BE9-A83B-3F497E45146C" expanded="False" code="XXKbEbN9PS" thumbCode="XXKbEbN9PS" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+          <page name="提交动作" ID="31B3800F-8952-4DC5-B832-B48CEC74838E" expanded="False" code="fhre3qYHFv" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="回退动作" ID="7F9AED35-8AFF-4A78-A7D8-59D266A377D4" expanded="False" code="q14aqu5dbF" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="选择审批人" ID="086C2EDD-EEF4-4C6D-916A-13D1D2979121" expanded="True" code="DQ6xMcMZBy" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+              <image key="91852B86E51F760894554368302F9800.svg"/>
+              <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+            </images>
+            <page name="搜索" ID="6BA5E409-D7C5-4B1B-A159-D098DD715942" expanded="False" code="acdHcQXJqW" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="58797BD99A5B6A63676E70F5E9D20AA7.jpg"/>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+            <page name="搜索-结果" ID="F21B14CF-BE09-441E-BE5E-4D97AC3D7552" expanded="False" code="qAXvzdXklL" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="91852B86E51F760894554368302F9800.svg"/>
+              </images>
+            </page>
+          </page>
+        </page>
+        <page name="查看-详情" ID="D62CB2E8-2A58-4A1E-9947-065B8718D2EE" expanded="False" code="1QHmBA6Z65" thumbCode="1QHmBA6Z65" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+          </images>
+        </page>
+        <page name="查看意见" ID="0E2BEB58-9C1A-479B-AD4E-A20906AAF5C4" expanded="True" code="8IiIaSJEGX" thumbCode="8IiIaSJEGX" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="4C3C233DC64D98300AEF0ACD33AD1D2F.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+          </images>
+        </page>
+        <page name="查看流程图" ID="742B1F6D-32FF-4B97-8DA6-6E12DE532088" expanded="False" code="iDO4D3iSrq" thumbCode="iDO4D3iSrq" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="BBE985EE7CD78A3677BA89402BC2A068.png"/>
+          </images>
+        </page>
+        <page name="客户权限申请-已办任务" ID="74A21244-D2BB-4905-B561-2A5B802AD1EA" expanded="False" code="hZwdJdopcT" thumbCode="hZwdJdopcT" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+            <image key="91852B86E51F760894554368302F9800.svg"/>
+            <image key="6F7C3CE301A6DAFC315C06E608F33D28.png"/>
+            <image key="E931D537FC6921BF4CC4EE668806CEFD.svg"/>
+            <image key="B2F239FE2A3DA410C001FE3297A11B24.svg"/>
+            <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+          </images>
+        </page>
+      </page>
+    </page>
+  </pages>
+  <trash>
+    <page name="关联关系图谱" ID="7BFBC40B-A125-446F-8DFB-9AE339E5E143" expanded="False" code="o492SFc4aA" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="同一风险控制号关系图谱" ID="DE53DBF9-CCE2-43FC-BE29-FCCA75B632C2" expanded="False" code="HsyE3GOmak" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="股权关联关系" ID="FFB360CF-5B85-40C8-B8D0-04B97818923F" expanded="False" code="uLyJ1dJ3bC" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="疑似集团关联关系" ID="629BA3E2-10A8-417F-8433-E6CDCA9B0101" expanded="False" code="PjBjICTlmq" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="任务处理" ID="650FD1C2-38C1-4178-9F29-64EAC30DFBAE" expanded="True" code="jBlktpj7cO" thumbCode="7Sq5RaoyC8" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="91852B86E51F760894554368302F9800.svg"/>
+      </images>
+    </page>
+    <page name="选择审批人" ID="732FE47B-7C41-4C78-AD29-B34646223B20" expanded="True" code="KLgETG7kbe" thumbCode="2CET6WSlc1" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+        <image key="91852B86E51F760894554368302F9800.svg"/>
+        <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+      </images>
+    </page>
+    <page name="搜索" ID="4A7FB00E-DBD1-4B29-8248-AB1AA854CC90" expanded="False" code="82DqDzLHK3" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="58797BD99A5B6A63676E70F5E9D20AA7.jpg"/>
+        <image key="91852B86E51F760894554368302F9800.svg"/>
+      </images>
+    </page>
+    <page name="搜索-结果" ID="A3CBFC85-D019-41BE-9F5B-D40448C247C9" expanded="False" code="rSsekuKPFd" thumbCode="USydlkhFRi" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="91852B86E51F760894554368302F9800.svg"/>
+      </images>
+    </page>
+    <page name="任务处理" ID="44BED040-357C-4EFC-9ABA-6F11EBAC1725" expanded="True" code="o4tr9HJr3B" thumbCode="COBL4zStzA" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="91852B86E51F760894554368302F9800.svg"/>
+      </images>
+    </page>
+    <page name="选择审批人" ID="D7FF5A3C-9187-4B73-B917-1E2F57CDC66E" expanded="True" code="Xfxe3BwnDT" thumbCode="vzbNryQ2pF" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+        <image key="91852B86E51F760894554368302F9800.svg"/>
+        <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+      </images>
+    </page>
+    <page name="搜索" ID="0C899564-D9E8-4E1D-843A-F8772015D875" expanded="False" code="ZiHThuUc3P" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="58797BD99A5B6A63676E70F5E9D20AA7.jpg"/>
+        <image key="91852B86E51F760894554368302F9800.svg"/>
+      </images>
+    </page>
+    <page name="搜索-结果" ID="F70F009F-6754-487B-994D-0A6DE572F703" expanded="False" code="YnOIFjibQa" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="91852B86E51F760894554368302F9800.svg"/>
+      </images>
+    </page>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="FBC294BB62C848E06CB3CC989B4272B9.png"/>
+    <image key="58797BD99A5B6A63676E70F5E9D20AA7.jpg"/>
+    <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+    <image key="D0E85C8F90B0347503877CF2153139D8.png"/>
+    <image key="94E9452D20864CF3FBC79CD2C4E76723.svg"/>
+    <image key="DA139F0E584512EE783A4911D1FD02D3.svg"/>
+    <image key="7BBDCEE6806EF80D54B34090D1BD3485.png"/>
+    <image key="BDF4EA292CB982AA7E3405AFB9530500.png"/>
+    <image key="B2F239FE2A3DA410C001FE3297A11B24.svg"/>
+    <image key="BED95C8B40F707D86B851FFCFC2CA465.svg"/>
+    <image key="BBE985EE7CD78A3677BA89402BC2A068.png"/>
+    <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+    <image key="862B4A57FAD78C544D11ACAE6C0174C0.png"/>
+    <image key="643399502F4A768B9C36424C2FD37F95.svg"/>
+    <image key="3A3CD3DB2FAE85FFEF2A8996E634645D.svg"/>
+    <image key="0F78BF1452F2FCEE37623E29DBF21F23.png"/>
+    <image key="4C69E750851E947E76B471E19E145C35.png"/>
+    <image key="116CF30EE10672DBA661E0A97D7D7793.png"/>
+    <image key="CA87E59D4C4E6C46C8A3B241A3C41AE1.svg"/>
+    <image key="24AC6E9D0DB95CFF2CF4AFB878AB46D7.svg"/>
+    <image key="A8AE908FA7B8403CE55A63C41223050C.svg"/>
+    <image key="A361D2125981B9A70BCB715252537FB5.png"/>
+    <image key="73F7BA35258E08B58809CA242B254A1C.png"/>
+    <image key="2E967326C22523F5F084001B9F4E5BC7.svg"/>
+    <image key="CD4D64F6504DFB85F957B55C4C7BEE35.png"/>
+    <image key="1575D6EBA04EBB187F6AFE8C0164F4A0.png"/>
+    <image key="1794BA84FDA001A986210728345F80A0.png"/>
+    <image key="AB3C047676F2FB9845D5AA54D07A2AAB.png"/>
+    <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+    <image key="51ED992D000055983D8B8802C65E2870.svg"/>
+    <image key="075A4B9369EA18AF2016B6E029113F5D.svg"/>
+    <image key="AB73E3FBADE87B861431D1394F9FF444.png"/>
+    <image key="DB7FC814F441C17601BBA7EA29C0CC4C.svg"/>
+    <image key="34B150AE84859CA19A407BF1A0F65172.png"/>
+    <image key="0A4F9816C6E464E1D0E17F6E92DFB2F8.png"/>
+    <image key="D08755C22A9B40B6BF65036DEC8B44B4.svg"/>
+    <image key="0B95B2D2737404225AC448D22AE22D5E.svg"/>
+    <image key="4D1F1FDFBBF610B2A61FEF4F20F491DA.svg"/>
+    <image key="5CE288DD267EAC96CB0A89412B6EC6E5.png"/>
+    <image key="474A61FDC203C97B2EEFAF494C017CCB.svg"/>
+    <image key="6F7C3CE301A6DAFC315C06E608F33D28.png"/>
+    <image key="E931D537FC6921BF4CC4EE668806CEFD.svg"/>
+    <image key="3953F633DE48D09E0E2E8F9EDFD40ED7.png"/>
+    <image key="F997593E2F64EA4EFC0EF04094737E0F.png"/>
+    <image key="4019BA27A1EBF1A8650EE69EA4ADEB3C.png"/>
+    <image key="F514D130FDDA51F597280EAD8CD127E6.jpg"/>
+    <image key="01538BC5CDC7F129A3B2FC3FF2858618.svg"/>
+    <image key="4C3C233DC64D98300AEF0ACD33AD1D2F.svg"/>
+    <image key="91852B86E51F760894554368302F9800.svg"/>
+    <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+    <image key="705C52C11A77110C35ED58F4277B5E54.png"/>
+    <image key="3F90A725F97A4C7F1C6DD1122B464A22.svg"/>
+    <image key="A557F34EB8C2697B635D21EE5EFD4E42.svg"/>
+    <image key="0E908A7059D1AC7910AC431AB462B3DC.png"/>
+    <image key="DBB844EC461D6A8CA9FCF93DBD823F2F.svg"/>
+    <image key="131F35D5764586D469B983E5E2357A5E.png"/>
+    <image key="00A4C6AA108D35D88A78FE7CD5F8D12F.svg"/>
+  </images>
+</project>

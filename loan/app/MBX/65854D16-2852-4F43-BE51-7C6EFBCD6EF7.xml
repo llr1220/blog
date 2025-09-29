@@ -1,0 +1,69 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="65854D16-2852-4F43-BE51-7C6EFBCD6EF7" platform="MtMobile" defaultW="414" defaultH="736" measureW="414" measureH="933" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,414,933)">
+  <controls controlCount="5">
+    <control controlID="4CFD93B2-82C4-43BE-8E3C-3ADD504F0EEB" controlTypeID="StatusBar(IOS)" x="0" y="0" w="414" h="20" zOrder="0">
+      <color>4294046454</color>
+    </control>
+    <control controlID="7D4DDC09-EC13-4084-8C7A-47A6B83EBDB5" controlTypeID="Shape" x="0" y="20" w="414" h="40" zOrder="1">
+      <color>4294046454</color>
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E8%B4%A2%E5%8A%A1%E4%BF%A1%E6%81%AF</text>
+      <textColor>4281545523</textColor>
+      <textSize>16</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="06BF47E1-9F8F-4448-8FBD-15F00EA0BF9C" controlTypeID="Icon" x="20" y="32" w="16" h="16" zOrder="2">
+      <color>4278190080</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D9A3DA3C-9AF8-463A-B654-7114403FD88A" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%B4%A2%E5%8A%A1%E4%BF%A1%E6%81%AF">
+          <area shape="0" alt="" ID="{8688445B-E099-4A09-90F2-FE0D1CC1B196}" coords="(0,0,16,16)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62418</iconCode>
+      </icon>
+      <URL>91852B86E51F760894554368302F9800.svg</URL>
+    </control>
+    <control controlID="DB0CC60C-0F76-4797-B82A-45245794CC5A" controlTypeID="Tabs" x="0" y="70" w="414" h="40" zOrder="3">
+      <borderColor>4292335575</borderColor>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="DACCA8BC-2C71-4C9A-AB09-879887275879" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%B5%84%E4%BA%A7%E8%B4%9F%E5%80%BA%E8%A1%A8">
+          <area shape="0" alt="" ID="{D09FC843-B859-4DA9-8A23-00A3937F1D21}" coords="(0,0,102.5,40)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%88%A9%E6%B6%A6%E8%A1%A8">
+          <area shape="0" alt="" ID="{E91381DC-4ACF-4CF6-8B6D-59B78ABBC977}" coords="(103.5,0,206,40)"/>
+        </link>
+        <link targetPageID="DB2D5A07-B023-4D4C-8787-DF0F569F284B" linkType="ltPageLink" isApplyIncludePage="False" title="%E7%8E%B0%E9%87%91%E6%B5%81%E9%87%8F%E8%A1%A8">
+          <area shape="0" alt="" ID="{103A33B8-C05B-4BCB-92C1-990BABE4FC93}" coords="(207,0,309.5,40)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%B4%A2%E5%8A%A1%E6%8C%87%E6%A0%87">
+          <area shape="0" alt="" ID="{4B2EFFB3-5DA5-40EC-AF83-3EE1F8145059}" coords="(310.5,0,413,40)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E8%B5%84%E4%BA%A7%E8%B4%9F%E5%80%BA%E8%A1%A8%2C%E5%88%A9%E6%B6%A6%E8%A1%A8%2C%E7%8E%B0%E9%87%91%E6%B5%81%E9%87%8F%E8%A1%A8%2C%E8%B4%A2%E5%8A%A1%E6%8C%87%E6%A0%87</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>1</selectedIndex>
+      <selectedColor>4281890246</selectedColor>
+      <indicatorPercentWidth>20</indicatorPercentWidth>
+      <dividerPercentHeight>0</dividerPercentHeight>
+      <selectedTextColor>4281890246</selectedTextColor>
+    </control>
+    <control controlID="62BC5EC4-8E48-4BF9-AE53-41DEDBB0F0FD" controlTypeID="Image" x="0" y="120" w="414" h="803" zOrder="4">
+      <URL>5CE288DD267EAC96CB0A89412B6EC6E5.png</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294046454</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

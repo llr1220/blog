@@ -1,0 +1,26 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="5552C448-1BC1-4C4D-BC09-AEB0C0B4C4BD" platform="MtMobile" defaultW="414" defaultH="736" measureW="414" measureH="736" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="4">
+    <control controlID="702CE858-2DC4-4083-BC2E-3741E88E925E" controlTypeID="Image" x="0" y="69" w="414" h="667" zOrder="0">
+      <URL>1794BA84FDA001A986210728345F80A0.png</URL>
+    </control>
+    <control controlID="8BBE9A02-385B-4F37-A828-077DAB56F174" controlTypeID="Image" x="0" y="0" w="414" h="69" zOrder="1">
+      <URL>7BBDCEE6806EF80D54B34090D1BD3485.png</URL>
+    </control>
+    <control controlID="9E2199B7-94BA-4676-96AE-7359E6F7EFF1" controlTypeID="Shape" x="176" y="111" w="111" h="24" zOrder="2">
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%AD%A4%E5%A4%84%E9%A9%AC%E8%B5%9B%E5%85%8B</text>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E5E27EBB-73EA-4484-9F91-509EADC9B78A" controlTypeID="HotSpot" x="223" y="294" w="159" h="59" zOrder="3"/>
+  </controls>
+  <param>
+    <backgroundColor>4294046454</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines>
+      <guideLine isLocked="False" isHori="True" value="-171"/>
+    </guideLines>
+  </param>
+</mockup>

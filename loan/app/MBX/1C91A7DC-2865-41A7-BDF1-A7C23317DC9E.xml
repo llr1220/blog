@@ -1,0 +1,41 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="1C91A7DC-2865-41A7-BDF1-A7C23317DC9E" platform="MtMobile" defaultW="414" defaultH="736" measureW="414" measureH="914" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,414,914)">
+  <controls controlCount="5">
+    <control controlID="8DEC3846-679A-46BD-84EB-83E4ECD10EAA" controlTypeID="Image" x="0" y="0" w="414" h="920" zOrder="0">
+      <URL>F514D130FDDA51F597280EAD8CD127E6.jpg</URL>
+    </control>
+    <control controlID="837FC7C3-2481-4798-AEE6-09DC442C183C" controlTypeID="Shape" x="164" y="583" w="188" h="24" zOrder="1">
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%AD%A4%E5%A4%84%E9%A9%AC%E8%B5%9B%E5%85%8B</text>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="35576952-90FA-4341-B76B-73480217667E" controlTypeID="Shape" x="143" y="607" w="111" h="24" zOrder="2">
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%AD%A4%E5%A4%84%E9%A9%AC%E8%B5%9B%E5%85%8B</text>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F2577602-0E73-42D1-8563-B5FF000C44B2" controlTypeID="Shape" x="169" y="521" w="111" h="24" zOrder="3">
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%AD%A4%E5%A4%84%E9%A9%AC%E8%B5%9B%E5%85%8B</text>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="06ED3CE4-970A-41F6-B619-DD463A7D2E13" controlTypeID="HotSpot" x="203" y="845" w="206" h="59" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F6125444-4CD8-45C5-A48D-DC291D243B3B" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%96%B0%E5%A2%9E-%E6%89%8B%E5%B7%A5%E5%BD%95%E5%85%A5">
+          <area shape="0" alt="" ID="{2A0FD01D-C2E1-471C-9972-9E9E9B20AC33}" coords="(0,0,206,59)"/>
+        </link>
+      </links>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294046454</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

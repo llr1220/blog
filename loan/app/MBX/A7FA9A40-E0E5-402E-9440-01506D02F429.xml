@@ -1,0 +1,37 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="A7FA9A40-E0E5-402E-9440-01506D02F429" platform="MtMobile" defaultW="414" defaultH="736" measureW="414" measureH="736" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="5">
+    <control controlID="F58315A6-0A06-4BC8-8D0E-18C40744A37A" controlTypeID="Image" x="0" y="435" w="414" h="301" zOrder="0">
+      <URL>AB73E3FBADE87B861431D1394F9FF444.png</URL>
+    </control>
+    <control controlID="9C711DC7-4C73-435E-829C-1ADE53B46A00" controlTypeID="Image" x="0" y="0" w="414" h="446" zOrder="1">
+      <URL>0E908A7059D1AC7910AC431AB462B3DC.png</URL>
+    </control>
+    <control controlID="E34517E4-1E40-4B56-9214-DB57C87B7F6B" controlTypeID="HotSpot" x="10" y="40" w="34" h="38" zOrder="2">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F6125444-4CD8-45C5-A48D-DC291D243B3B" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%96%B0%E5%A2%9E-%E6%89%8B%E5%B7%A5%E5%BD%95%E5%85%A5">
+          <area shape="0" alt="" ID="{3F11D581-9450-43D5-991C-48BC657DCCEE}" coords="(0,0,34,38)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="5411C4F7-361B-412A-AB95-8E05E8747371" controlTypeID="HotSpot" x="370" y="518" w="34" h="38" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F6125444-4CD8-45C5-A48D-DC291D243B3B" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%96%B0%E5%A2%9E-%E6%89%8B%E5%B7%A5%E5%BD%95%E5%85%A5">
+          <area shape="0" alt="" ID="{3F11D581-9450-43D5-991C-48BC657DCCEE}" coords="(0,0,34,38)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="8761A2ED-1730-44B5-A527-02669DEFF79E" controlTypeID="HotSpot" x="37" y="570" w="332" h="94" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F05D6ADC-1F71-4FA9-914B-58B17E6B307E" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%96%B0%E5%A2%9E%E5%AE%A2%E6%88%B7-ocr%E5%B7%B2%E8%AF%86%E5%88%AB">
+          <area shape="0" alt="" ID="{138D0B6F-418F-471D-83EB-4BE8647DFF47}" coords="(0,0,332,94)"/>
+        </link>
+      </links>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294046454</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

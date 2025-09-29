@@ -1,0 +1,57 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="B1F0D514-15DE-443E-855D-AD964F27E892" platform="MtMobile" defaultW="414" defaultH="736" measureW="414" measureH="736" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="6">
+    <control controlID="D9FB531A-F172-4790-8B52-5E368028769E" controlTypeID="StatusBar(IOS)" x="0" y="0" w="414" h="20" zOrder="0">
+      <color>4294046454</color>
+    </control>
+    <control controlID="EC56803B-6EEB-4DCA-9981-91572E39F981" controlTypeID="Shape" x="0" y="20" w="414" h="40" zOrder="1">
+      <color>4294046454</color>
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E9%80%89%E6%8B%A9%E7%94%A8%E6%88%B7</text>
+      <textColor>4281545523</textColor>
+      <textSize>16</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CA4DF16D-AFDB-4CDC-86BA-BCBBA2CD4CF4" controlTypeID="Icon" x="20" y="32" w="16" h="16" zOrder="2">
+      <color>4278190080</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="4FA60412-EA5C-445E-B9F5-C6EA05225145" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%90%9C%E7%B4%A2">
+          <area shape="0" alt="" ID="{0482B75C-1C54-4A87-A626-FFB5D847676C}" coords="(0,0,16,16)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62418</iconCode>
+      </icon>
+      <URL>91852B86E51F760894554368302F9800.svg</URL>
+    </control>
+    <control controlID="29333440-2198-4523-8B58-92FC004DED7D" controlTypeID="Search" x="10" y="64" w="394" h="35" zOrder="3">
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>182246</text>
+      <textColor>4287006342</textColor>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D1CB998C-1E26-4650-AA4A-9B290D528C32" controlTypeID="Image" x="0" y="457" w="414" h="296" zOrder="4">
+      <URL>58797BD99A5B6A63676E70F5E9D20AA7.jpg</URL>
+    </control>
+    <control controlID="C6051381-EEBF-4405-8513-81736467C478" controlTypeID="HotSpot" x="334" y="693" w="80" h="60" zOrder="5">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F652CB26-B657-4CD2-886A-E82B52ABB337" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%90%9C%E7%B4%A2-%E7%BB%93%E6%9E%9C">
+          <area shape="0" alt="" ID="{2651816D-EE72-479D-B7C9-A55D6B9FC955}" coords="(0,0,80,60)"/>
+        </link>
+      </links>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294046454</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
